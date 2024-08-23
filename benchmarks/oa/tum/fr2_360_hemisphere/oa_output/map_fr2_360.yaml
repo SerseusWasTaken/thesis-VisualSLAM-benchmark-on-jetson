@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+mappointsFile: "map_fr2_360.mappoints"
+nMappoints: 5936
+mapobjectsFile: "map_fr2_360.mapobjects"
+nMapobjects: 0
+objecttracksFile: "map_fr2_360.objecttracks"
+nObjectTracks: 0
+keyframesFile: "map_fr2_360.keyframes"
+nKeyframes: 138
+featuresFile: "map_fr2_360.features"
+nFeatures: 139398
+Options: 2
+Options descriptions: [ FEATURES_FILE_NOT_DELIMITED ]
+cameraMatrices:
+   - { fx:5.2090863037109375e+02, fy:5.2100732421875000e+02,
+       cx:3.2514144897460938e+02, cy:2.4970176696777344e+02 }

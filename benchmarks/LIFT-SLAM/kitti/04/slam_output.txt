@@ -1,0 +1,314 @@
+
+ORB-SLAM2 Copyright (C) 2014-2016 Raul Mur-Artal, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: Monocular
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+
+Camera Parameters: 
+- fx: 707.091
+- fy: 707.091
+- cx: 601.887
+- cy: 183.11
+- k1: 0
+- k2: 0
+- p1: 0
+- p2: 0
+- fps: 10
+- color order: RGB (ignored if grayscale)
+
+ORB Extractor Parameters: 
+- Number of Features: 2000
+- Scale Levels: 8
+- Scale Factor: 1.2
+- Initial Fast Threshold: 20
+- Minimum Fast Threshold: 7
+
+-------
+Start processing sequence ...
+Images in the sequence: 271
+
+init: 410
+New Map created with 260 points
+track ref frame matches: 18
+Motion model 158 158
+Motion model 127 127
+Motion model 122 122
+Motion model 123 123
+Motion model 112 112
+Motion model 116 116
+Motion model 122 122
+Motion model 122 122
+Motion model 135 135
+Motion model 144 144
+Motion model 95 95
+Motion model 116 116
+Motion model 80 80
+Motion model 95 95
+Motion model 61 61
+Motion model 71 71
+Motion model 51 51
+Motion model 60 60
+Motion model 28 28
+Motion model 47 47
+Motion model 34 34
+Motion model 47 47
+Motion model 68 68
+Motion model 88 88
+Motion model 90 90
+Motion model 110 110
+Motion model 113 113
+Motion model 76 76
+Motion model 110 110
+Motion model 80 80
+Motion model 93 93
+Motion model 89 89
+Motion model 71 71
+Motion model 90 90
+Motion model 72 72
+Motion model 91 91
+Motion model 64 64
+Motion model 83 83
+Motion model 60 60
+Motion model 76 76
+Motion model 54 54
+Motion model 80 80
+Motion model 48 48
+Motion model 65 65
+Motion model 56 56
+Motion model 66 66
+Motion model 57 57
+Motion model 71 71
+Motion model 48 48
+Motion model 66 66
+Motion model 58 58
+Motion model 86 86
+Motion model 67 67
+Motion model 94 94
+Motion model 64 64
+Motion model 88 88
+Motion model 71 71
+Motion model 91 91
+Motion model 75 75
+Motion model 94 94
+Motion model 76 76
+Motion model 89 89
+Motion model 118 118
+Motion model 88 88
+Motion model 112 112
+Motion model 81 81
+Motion model 106 106
+Motion model 77 77
+Motion model 94 94
+Motion model 73 73
+Motion model 103 103
+Motion model 77 77
+Motion model 95 95
+Motion model 73 73
+Motion model 89 89
+Motion model 109 109
+Motion model 70 70
+Motion model 78 78
+Motion model 57 57
+Motion model 73 73
+Motion model 64 64
+Motion model 79 79
+Motion model 68 68
+Motion model 90 90
+Motion model 108 108
+Motion model 83 83
+Motion model 101 101
+Motion model 73 73
+Motion model 79 79
+Motion model 52 52
+Motion model 91 91
+Motion model 74 74
+Motion model 93 93
+Motion model 88 88
+Motion model 93 93
+Motion model 81 81
+Motion model 94 94
+Motion model 75 75
+Motion model 108 108
+Motion model 75 75
+Motion model 101 101
+Motion model 91 91
+Motion model 66 66
+Motion model 100 100
+Motion model 85 85
+Motion model 66 66
+Motion model 89 89
+Motion model 83 83
+Motion model 97 97
+Motion model 76 76
+Motion model 57 57
+Motion model 85 85
+Motion model 67 67
+Motion model 84 84
+Motion model 63 63
+Motion model 89 89
+Motion model 64 64
+Motion model 98 98
+Motion model 66 66
+Motion model 88 88
+Motion model 76 76
+Motion model 73 73
+Motion model 78 78
+Motion model 108 108
+Motion model 97 97
+Motion model 88 88
+Motion model 90 90
+Motion model 95 95
+Motion model 70 70
+Motion model 98 98
+Motion model 84 84
+Motion model 116 116
+Motion model 94 94
+Motion model 117 117
+Motion model 86 86
+Motion model 119 119
+Motion model 87 87
+Motion model 116 116
+Motion model 101 101
+Motion model 127 127
+Motion model 97 97
+Motion model 103 103
+Motion model 99 99
+Motion model 103 103
+Motion model 95 95
+Motion model 120 120
+Motion model 92 92
+Motion model 121 121
+Motion model 96 96
+Motion model 112 112
+Motion model 88 88
+Motion model 91 91
+Motion model 77 77
+Motion model 103 103
+Motion model 81 81
+Motion model 116 116
+Motion model 85 85
+Motion model 112 112
+Motion model 94 94
+Motion model 119 119
+Motion model 93 93
+Motion model 126 126
+Motion model 102 102
+Motion model 131 131
+Motion model 103 103
+Motion model 134 134
+Motion model 106 106
+Motion model 114 114
+Motion model 107 107
+Motion model 114 114
+Motion model 91 91
+Motion model 121 121
+Motion model 124 124
+Motion model 94 94
+Motion model 105 105
+Motion model 77 77
+Motion model 92 92
+Motion model 99 99
+Motion model 70 70
+Motion model 86 86
+Motion model 60 60
+Motion model 75 75
+Motion model 60 60
+Motion model 77 77
+Motion model 44 44
+Motion model 59 59
+Motion model 32 32
+Motion model 44 44
+Motion model 61 61
+Motion model 61 61
+Motion model 75 75
+Motion model 83 83
+Motion model 83 83
+Motion model 51 51
+Motion model 77 77
+Motion model 50 50
+Motion model 63 63
+Motion model 87 87
+Motion model 50 50
+Motion model 75 75
+Motion model 51 51
+Motion model 61 61
+Motion model 42 42
+Motion model 69 69
+Motion model 50 50
+Motion model 65 65
+Motion model 53 53
+Motion model 83 83
+Motion model 70 70
+Motion model 83 83
+Motion model 61 61
+Motion model 90 90
+Motion model 69 69
+Motion model 90 90
+Motion model 68 68
+Motion model 87 87
+Motion model 54 54
+Motion model 85 85
+Motion model 44 44
+Motion model 69 69
+Motion model 53 53
+Motion model 85 85
+Motion model 49 49
+Motion model 78 78
+Motion model 57 57
+Motion model 91 91
+Motion model 66 66
+Motion model 75 75
+Motion model 85 85
+Motion model 105 105
+Motion model 72 72
+Motion model 85 85
+Motion model 67 67
+Motion model 86 86
+Motion model 61 61
+Motion model 77 77
+Motion model 60 60
+Motion model 73 73
+Motion model 61 61
+Motion model 74 74
+Motion model 48 48
+Motion model 65 65
+Motion model 71 71
+Motion model 83 83
+Motion model 94 94
+Motion model 64 64
+Motion model 69 69
+Motion model 87 87
+Motion model 96 96
+Motion model 93 93
+Motion model 65 65
+Motion model 78 78
+Motion model 73 73
+Motion model 88 88
+Motion model 54 54
+Motion model 58 58
+Motion model 43 43
+Motion model 62 62
+Motion model 54 54
+Motion model 65 65
+Motion model 42 42
+Motion model 58 58
+Motion model 41 41
+Motion model 49 49
+Motion model 33 33
+Motion model 33 33
+Motion model 33 33
+Motion model 36 36
+-------
+
+median tracking time: 0.00872572
+mean tracking time: 0.00937708
+
+Saving keyframe trajectory to KeyFrameTrajectory.txt ...
+
+trajectory saved!

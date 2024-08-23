@@ -1,0 +1,1624 @@
+top - 11:08:05 up 2 min,  1 user,  load average: 1.46, 0.73, 0.29
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.4 us, 10.6 sy,  0.0 ni, 64.6 id,  3.5 wa,  0.9 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4986.9 free,   1342.8 used,   1121.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5868.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4080 jonas     20   0  100072  15960   7416 S  58.8   0.2   0:00.12 python3
+   4088 jonas     20   0   19288  10572   5440 S  29.4   0.1   0:00.05 lsb_rel+
+   2419 root      20   0  249500  15608   5828 S  17.6   0.2   0:00.05 jtop
+   2592 root      20   0  403836  74300  58504 S  17.6   1.0   0:05.62 package+
+    142 root      20   0       0      0      0 I   5.9   0.0   0:00.10 kworker+
+    262 root      19  -1   45348  10200   6664 S   5.9   0.1   0:00.69 systemd+
+   2411 root      20   0  249500  15004   5384 S   5.9   0.2   0:00.03 jtop
+   4081 jonas     20   0   12024   3440   2808 R   5.9   0.0   0:00.03 top
+
+top - 11:08:06 up 2 min,  1 user,  load average: 1.46, 0.73, 0.29
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us,  7.1 sy,  0.0 ni, 71.0 id, 14.9 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4986.9 free,   1342.8 used,   1121.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5868.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2592 root      20   0  359748  21548  14228 D   8.8   0.3   0:05.71 package+
+   4080 jonas     20   0  248448  19576   7956 S   8.8   0.3   0:00.21 python3
+   2891 jonas     20   0 4060740 276372 112496 S   6.9   3.6   0:07.22 gnome-s+
+    159 root       0 -20       0      0      0 R   5.9   0.0   0:06.75 kworker+
+   2419 root      20   0  249756  15864   6040 S   4.9   0.2   0:00.10 jtop
+    199 root       0 -20       0      0      0 I   2.9   0.0   0:04.59 kworker+
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.05 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.82 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.10 ksoftir+
+     36 root       0 -20       0      0      0 I   1.0   0.0   0:02.94 kworker+
+     94 root       0 -20       0      0      0 I   1.0   0.0   0:05.97 kworker+
+    120 root       0 -20       0      0      0 I   1.0   0.0   0:03.78 kworker+
+    288 root      39  19       0      0      0 S   1.0   0.0   0:00.04 nvmap-bz
+    918 root      20   0       0      0      0 S   1.0   0.0   0:00.14 RTW_CMD+
+   1272 root      20   0 2155228  42564  24544 S   1.0   0.6   0:00.21 contain+
+   2756 root      20   0   24.2g  45100  25784 S   1.0   0.6   0:02.21 Xorg
+   3277 jonas     20   0  813384  48976  36688 S   1.0   0.6   0:00.63 gnome-t+
+
+top - 11:08:07 up 2 min,  1 user,  load average: 1.46, 0.73, 0.29
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.9 us,  5.4 sy,  0.0 ni, 75.0 id,  3.4 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4986.9 free,   1342.8 used,   1121.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5868.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2592 root      20   0  404024  74384  58504 S  90.2   1.0   0:06.63 package+
+    159 root       0 -20       0      0      0 I  20.6   0.0   0:06.96 kworker+
+   2419 root      20   0  249756  15868   6040 S   2.9   0.2   0:00.13 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.07 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.83 systemd
+    223 root      20   0       0      0      0 S   1.0   0.0   0:00.02 jbd2/mm+
+    516 message+  20   0    9644   5788   3436 S   1.0   0.1   0:01.25 dbus-da+
+    785 root      20   0    2472   1632   1440 S   1.0   0.0   0:00.04 nvfanco+
+   2756 root      20   0   24.2g  45100  25784 S   1.0   0.6   0:02.22 Xorg
+   2891 jonas     20   0 4060740 276372 112496 S   1.0   3.6   0:07.23 gnome-s+
+   3328 jonas     20   0  798832  77568  46368 S   1.0   1.0   0:01.65 gnome-s+
+
+top - 11:08:08 up 2 min,  1 user,  load average: 1.46, 0.73, 0.29
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.6 us,  4.1 sy,  0.0 ni, 68.8 id, 18.0 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4860.1 free,   1353.6 used,   1237.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5855.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3328 jonas     20   0  802716  85380  49772 S  38.2   1.1   0:02.04 gnome-s+
+   4149 jonas     20   0  278316  27208  21524 R  14.7   0.4   0:00.15 mono_ki+
+   2592 root      20   0  359748  21684  14228 S   5.9   0.3   0:06.69 package+
+   2419 root      20   0  249756  15872   6040 S   2.9   0.2   0:00.16 jtop
+     94 root       0 -20       0      0      0 I   2.0   0.0   0:05.99 kworker+
+     41 root       0 -20       0      0      0 I   1.0   0.0   0:02.37 kworker+
+    120 root       0 -20       0      0      0 I   1.0   0.0   0:03.79 kworker+
+    159 root       0 -20       0      0      0 I   1.0   0.0   0:06.97 kworker+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.08 sugov:4
+   2411 root      20   0  396964  17176   5484 S   1.0   0.2   0:00.04 jtop
+   2756 root      20   0   24.2g  45100  25784 S   1.0   0.6   0:02.23 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.08 top
+
+top - 11:08:09 up 2 min,  1 user,  load average: 1.46, 0.73, 0.29
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.9 us, 39.3 sy,  0.0 ni, 43.9 id,  2.6 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4860.1 free,   1353.6 used,   1237.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5855.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8685136  73604  46256 R 251.5   1.0   0:02.69 mono_ki+
+     94 root       0 -20       0      0      0 I  52.5   0.0   0:06.52 kworker+
+   2419 root      20   0  323488  16036   6040 S   4.0   0.2   0:00.20 jtop
+    159 root       0 -20       0      0      0 R   3.0   0.0   0:07.00 kworker+
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.10 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.84 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.22 kworker+
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.03 kworker+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.22 kworker+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.13 sugov:0
+   1052 root      20   0       0      0      0 S   1.0   0.0   0:00.02 nvgpu_n+
+   2891 jonas     20   0 4060740 276372 112496 S   1.0   3.6   0:07.24 gnome-s+
+   3123 jonas     20   0  511208  45804  24004 S   1.0   0.6   0:00.81 python3
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.08 python3
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.01 bash
+
+top - 11:08:10 up 2 min,  1 user,  load average: 1.99, 0.86, 0.33
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.7 us, 68.2 sy,  0.0 ni,  1.6 id,  0.0 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4860.1 free,   1353.6 used,   1237.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5855.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8699392  98608  46256 R 516.7   1.3   0:07.96 mono_ki+
+    120 root       0 -20       0      0      0 D  25.5   0.0   0:04.05 kworker+
+    159 root       0 -20       0      0      0 I  23.5   0.0   0:07.24 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:06.65 kworker+
+   2391 gdm       20   0 3823188 163072  84416 S   2.9   2.1   0:03.87 gnome-s+
+   2419 root      20   0  323488  16044   6040 S   2.9   0.2   0:00.23 jtop
+   3277 jonas     20   0  813384  48976  36688 S   1.0   0.6   0:00.64 gnome-t+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.11 top
+
+top - 11:08:11 up 2 min,  1 user,  load average: 1.99, 0.86, 0.33
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.2 us, 66.5 sy,  0.0 ni,  1.1 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4750.2 free,   1426.7 used,   1274.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5782.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8714440 124404  46256 R 531.1   1.6   0:13.43 mono_ki+
+    159 root       0 -20       0      0      0 I  25.2   0.0   0:07.50 kworker+
+     94 root       0 -20       0      0      0 I  12.6   0.0   0:06.78 kworker+
+    199 root       0 -20       0      0      0 I  12.6   0.0   0:04.72 kworker+
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:00.14 top
+   2419 root      20   0  323488  16052   6040 S   1.9   0.2   0:00.25 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.85 systemd
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.09 irq/223+
+   2891 jonas     20   0 4060740 276372 112496 S   1.0   3.6   0:07.25 gnome-s+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.22 python3
+
+top - 11:08:12 up 2 min,  1 user,  load average: 1.99, 0.86, 0.33
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.2 us, 70.1 sy,  0.0 ni,  0.4 id,  0.0 wa,  0.1 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4750.2 free,   1426.7 used,   1274.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5782.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8731864 156400  46256 R 525.6   2.0   0:19.58 mono_ki+
+    159 root       0 -20       0      0      0 I  22.2   0.0   0:07.76 kworker+
+    120 root       0 -20       0      0      0 R  20.5   0.0   0:04.29 kworker+
+     94 root       0 -20       0      0      0 I  12.0   0.0   0:06.92 kworker+
+    199 root       0 -20       0      0      0 I  11.1   0.0   0:04.85 kworker+
+   2419 root      20   0  323488  16064   6040 S   3.4   0.2   0:00.29 jtop
+   1051 root      20   0       0      0      0 S   0.9   0.0   0:00.15 nvgpu_c+
+   2411 root      20   0  396964  17176   5484 S   0.9   0.2   0:00.05 jtop
+   2756 root      20   0   24.2g  45100  25784 S   0.9   0.6   0:02.24 Xorg
+   2891 jonas     20   0 4060740 276372 112496 S   0.9   3.6   0:07.26 gnome-s+
+   4081 jonas     20   0   12024   3440   2808 R   0.9   0.0   0:00.15 top
+
+top - 11:08:13 up 2 min,  1 user,  load average: 1.99, 0.86, 0.33
+Tasks: 350 total,   4 running, 346 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.9 us, 67.0 sy,  0.0 ni,  2.0 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4750.2 free,   1426.7 used,   1274.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5782.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8744800 179556  46256 R 506.7   2.4   0:24.90 mono_ki+
+    120 root       0 -20       0      0      0 I  15.2   0.0   0:04.45 kworker+
+     36 root       0 -20       0      0      0 I  12.4   0.0   0:03.07 kworker+
+    199 root       0 -20       0      0      0 I  12.4   0.0   0:04.98 kworker+
+     94 root       0 -20       0      0      0 R  11.4   0.0   0:07.04 kworker+
+   2419 root      20   0  323488  16076   6040 S   1.9   0.2   0:00.31 jtop
+   4081 jonas     20   0   12024   3440   2808 R   1.9   0.0   0:00.17 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.86 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.11 ksoftir+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.23 kworker+
+   2891 jonas     20   0 4060740 276372 112496 S   1.0   3.6   0:07.27 gnome-s+
+   4224 jonas     20   0   11244   1296   1092 R   1.0   0.0   0:00.01 ps
+
+top - 11:08:14 up 2 min,  1 user,  load average: 1.99, 0.86, 0.33
+Tasks: 349 total,   3 running, 346 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.5 us, 69.0 sy,  0.0 ni,  1.3 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4646.7 free,   1501.8 used,   1302.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5707.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8758000 202980  46256 R 531.4   2.7   0:30.32 mono_ki+
+    159 root       0 -20       0      0      0 I  26.5   0.0   0:08.03 kworker+
+    199 root       0 -20       0      0      0 I  13.7   0.0   0:05.12 kworker+
+     94 root       0 -20       0      0      0 R  10.8   0.0   0:07.15 kworker+
+   2419 root      20   0  323488  16088   6040 S   2.9   0.2   0:00.34 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.19 top
+   2756 root      20   0   24.2g  45100  25784 S   1.0   0.6   0:02.25 Xorg
+   2891 jonas     20   0 4060740 276372 112496 S   1.0   3.6   0:07.28 gnome-s+
+
+top - 11:08:16 up 2 min,  1 user,  load average: 2.47, 0.97, 0.37
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.2 us, 67.4 sy,  0.0 ni,  1.1 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4646.7 free,   1501.8 used,   1302.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5707.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8771992 225144  46256 R 525.2   3.0   0:35.73 mono_ki+
+    159 root       0 -20       0      0      0 I  25.2   0.0   0:08.29 kworker+
+    120 root       0 -20       0      0      0 I  12.6   0.0   0:04.58 kworker+
+    199 root       0 -20       0      0      0 I  12.6   0.0   0:05.25 kworker+
+   2419 root      20   0  323488  16096   6040 S   3.9   0.2   0:00.38 jtop
+     94 root       0 -20       0      0      0 I   2.9   0.0   0:07.18 kworker+
+   3277 jonas     20   0  813384  48976  36688 S   1.0   0.6   0:00.65 gnome-t+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.20 top
+
+top - 11:08:17 up 2 min,  1 user,  load average: 2.47, 0.97, 0.37
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.6 us, 63.9 sy,  0.0 ni,  0.2 id,  8.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4595.2 free,   1539.1 used,   1316.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5670.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8779780 239196  46256 D 512.7   3.1   0:40.96 mono_ki+
+     94 root       0 -20       0      0      0 D  15.7   0.0   0:07.34 kworker+
+   2891 jonas     20   0 4060740 275316 112500 S   9.8   3.6   0:07.38 gnome-s+
+   2419 root      20   0  323488  16104   6040 S   2.0   0.2   0:00.40 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.22 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.87 systemd
+     93 root      20   0       0      0      0 D   1.0   0.0   0:00.23 kworker+
+    142 root      20   0       0      0      0 I   1.0   0.0   0:00.11 kworker+
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.09 python3
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.23 python3
+
+top - 11:08:18 up 2 min,  1 user,  load average: 2.47, 0.97, 0.37
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.8 us, 36.9 sy,  0.0 ni, 37.6 id,  2.4 wa,  0.2 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4595.2 free,   1539.1 used,   1316.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5670.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8804068 283924  46256 R 306.0   3.7   0:46.07 mono_ki+
+     36 root       0 -20       0      0      0 I  15.6   0.0   0:03.33 kworker+
+    120 root       0 -20       0      0      0 I  15.6   0.0   0:04.84 kworker+
+    159 root       0 -20       0      0      0 R   4.8   0.0   0:08.37 kworker+
+   2419 root      20   0  323488  16104   6040 S   4.2   0.2   0:00.47 jtop
+     94 root       0 -20       0      0      0 I   1.2   0.0   0:07.36 kworker+
+   1272 root      20   0 2155228  43840  24544 S   1.2   0.6   0:00.23 contain+
+   4081 jonas     20   0   12024   3440   2808 R   1.2   0.0   0:00.24 top
+      1 root      20   0  170000  10576   7204 S   0.6   0.1   0:07.88 systemd
+     56 root      39  19       0      0      0 S   0.6   0.0   0:00.01 khugepa+
+     93 root      20   0       0      0      0 I   0.6   0.0   0:00.24 kworker+
+    154 root      20   0       0      0      0 I   0.6   0.0   0:00.24 kworker+
+   2411 root      20   0  396964  17176   5484 S   0.6   0.2   0:00.06 jtop
+
+top - 11:08:19 up 2 min,  1 user,  load average: 2.47, 0.97, 0.37
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 13.7 sy,  0.0 ni, 69.1 id,  0.0 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4595.2 free,   1539.1 used,   1316.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5670.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8822416 314404  46256 R  97.1   4.1   0:47.06 mono_ki+
+     36 root       0 -20       0      0      0 I  39.2   0.0   0:03.73 kworker+
+    159 root       0 -20       0      0      0 I  18.6   0.0   0:08.56 kworker+
+     41 root       0 -20       0      0      0 R  13.7   0.0   0:02.51 kworker+
+   2419 root      20   0  323488  16108   6040 S   2.9   0.2   0:00.50 jtop
+   1659 root      20   0 2104620  67372  40556 S   2.0   0.9   0:00.34 dockerd
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.26 top
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.04 kworker+
+
+top - 11:08:20 up 2 min,  1 user,  load average: 2.35, 0.97, 0.37
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.5 us, 12.4 sy,  0.0 ni, 70.9 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4455.3 free,   1642.9 used,   1352.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5566.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8840896 345412  46256 R  99.0   4.5   0:48.07 mono_ki+
+     36 root       0 -20       0      0      0 I  12.7   0.0   0:03.86 kworker+
+     94 root       0 -20       0      0      0 D  12.7   0.0   0:07.49 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:04.97 kworker+
+    199 root       0 -20       0      0      0 I  12.7   0.0   0:05.38 kworker+
+     41 root       0 -20       0      0      0 I  11.8   0.0   0:02.63 kworker+
+   2419 root      20   0  323488  16108   6040 S   2.9   0.2   0:00.53 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.89 systemd
+     13 root      20   0       0      0      0 I   1.0   0.0   0:00.06 rcu_pre+
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.02 bash
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.27 top
+
+top - 11:08:21 up 2 min,  1 user,  load average: 2.35, 0.97, 0.37
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us,  9.6 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4455.3 free,   1642.9 used,   1352.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5566.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8859112 379980  46256 R  96.1   5.0   0:49.05 mono_ki+
+     36 root       0 -20       0      0      0 R  21.6   0.0   0:04.08 kworker+
+    120 root       0 -20       0      0      0 I  13.7   0.0   0:05.11 kworker+
+     41 root       0 -20       0      0      0 I  12.7   0.0   0:02.76 kworker+
+   2419 root      20   0  323488  16108   6040 S   3.9   0.2   0:00.57 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.29 top
+     46 root      20   0       0      0      0 I   1.0   0.0   0:00.14 kworker+
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.25 kworker+
+   2411 root      20   0  396964  17176   5484 S   1.0   0.2   0:00.07 jtop
+
+top - 11:08:22 up 2 min,  1 user,  load average: 2.35, 0.97, 0.37
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.9 us,  9.5 sy,  0.0 ni, 71.9 id,  1.3 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4455.3 free,   1642.9 used,   1352.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5566.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8877724 410724  46256 R  99.0   5.4   0:50.05 mono_ki+
+     36 root       0 -20       0      0      0 I  17.8   0.0   0:04.26 kworker+
+     94 root       0 -20       0      0      0 I  12.9   0.0   0:07.62 kworker+
+    159 root       0 -20       0      0      0 I  12.9   0.0   0:08.69 kworker+
+    199 root       0 -20       0      0      0 R   5.0   0.0   0:05.43 kworker+
+   2419 root      20   0  323488  16108   6040 S   4.0   0.2   0:00.61 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.31 top
+   3328 jonas     20   0  786324  85368  49772 S   1.0   1.1   0:02.05 gnome-s+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.24 python3
+
+top - 11:08:23 up 2 min,  1 user,  load average: 2.35, 0.97, 0.37
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 13.6 sy,  0.0 ni, 69.6 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4323.5 free,   1740.7 used,   1386.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5468.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 8896072 443512  46256 R  97.1   5.8   0:51.04 mono_ki+
+     36 root       0 -20       0      0      0 I  25.5   0.0   0:04.52 kworker+
+    199 root       0 -20       0      0      0 I  20.6   0.0   0:05.64 kworker+
+     41 root       0 -20       0      0      0 I  12.7   0.0   0:02.89 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:08.82 kworker+
+   2419 root      20   0  323488  16108   6040 S   3.9   0.2   0:00.65 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.33 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.90 systemd
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.25 kworker+
+
+top - 11:08:24 up 2 min,  1 user,  load average: 2.35, 0.97, 0.37
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us, 15.7 sy,  0.0 ni, 61.9 id,  1.0 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4323.5 free,   1740.7 used,   1386.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5468.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9583928 532176  68416 R  95.1   7.0   0:52.01 mono_ki+
+   2891 jonas     20   0 4060740 276208 112696 S  28.4   3.6   0:07.67 gnome-s+
+     36 root       0 -20       0      0      0 I  25.5   0.0   0:04.78 kworker+
+    120 root       0 -20       0      0      0 I  25.5   0.0   0:05.37 kworker+
+    199 root       0 -20       0      0      0 I  12.7   0.0   0:05.77 kworker+
+   2756 root      20   0   24.2g  45100  25784 S   8.8   0.6   0:02.34 Xorg
+   3277 jonas     20   0  813384  48976  36688 S   5.9   0.6   0:00.71 gnome-t+
+   2419 root      20   0  323488  16108   6040 S   3.9   0.2   0:00.69 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.35 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.09 irq/128+
+    288 root      39  19       0      0      0 S   1.0   0.0   0:00.05 nvmap-bz
+    516 message+  20   0    9644   5788   3436 S   1.0   0.1   0:01.26 dbus-da+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.09 sugov:4
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.16 nvgpu_c+
+   2752 jonas     20   0    8656   4852   3440 S   1.0   0.1   0:00.46 dbus-da+
+
+top - 11:08:25 up 2 min,  1 user,  load average: 2.64, 1.06, 0.40
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.3 us, 15.2 sy,  0.0 ni, 64.4 id,  0.5 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4323.5 free,   1740.7 used,   1386.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5468.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9853.0m 551540  73156 D  96.1   7.2   0:52.99 mono_ki+
+   2891 jonas     20   0 4060740 276448 112820 S  31.4   3.6   0:07.99 gnome-s+
+     41 root       0 -20       0      0      0 I  26.5   0.0   0:03.16 kworker+
+     36 root       0 -20       0      0      0 R  21.6   0.0   0:05.00 kworker+
+   2756 root      20   0   24.2g  47636  27656 S  10.8   0.6   0:02.45 Xorg
+   2419 root      20   0  323488  16112   6040 S   2.9   0.2   0:00.72 jtop
+   3277 jonas     20   0  813384  48976  36688 S   2.9   0.6   0:00.74 gnome-t+
+    288 root      39  19       0      0      0 S   2.0   0.0   0:00.07 nvmap-bz
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.91 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.26 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.10 irq/128+
+    142 root      20   0       0      0      0 I   1.0   0.0   0:00.12 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.10 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.14 sugov:0
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.17 nvgpu_c+
+   3123 jonas     20   0  511208  45804  24004 S   1.0   0.6   0:00.82 python3
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.36 top
+
+top - 11:08:26 up 2 min,  1 user,  load average: 2.64, 1.06, 0.40
+Tasks: 349 total,   3 running, 346 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.9 us, 13.3 sy,  0.0 ni, 65.9 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4177.5 free,   1877.6 used,   1395.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5329.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9854.9m 557872  73684 D 116.7   7.3   0:54.18 mono_ki+
+    199 root       0 -20       0      0      0 R  23.5   0.0   0:06.01 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:07.75 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:08.95 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S   8.8   3.6   0:08.08 gnome-s+
+     36 root       0 -20       0      0      0 I   4.9   0.0   0:05.05 kworker+
+   2419 root      20   0  323488  16120   6040 S   3.9   0.2   0:00.76 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:02.49 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.38 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.92 systemd
+    130 root     -51   0       0      0      0 R   1.0   0.0   0:00.11 irq/128+
+    262 root      19  -1   45348  10200   6664 S   1.0   0.1   0:00.70 systemd+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.11 irq/223+
+    516 message+  20   0    9644   5788   3436 S   1.0   0.1   0:01.27 dbus-da+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.08 jtop
+
+top - 11:08:27 up 2 min,  1 user,  load average: 2.64, 1.06, 0.40
+Tasks: 349 total,   1 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.9 us, 14.3 sy,  0.0 ni, 64.8 id,  1.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4177.5 free,   1877.6 used,   1395.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5329.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9856.2m 562432  74280 S 118.6   7.4   0:55.39 mono_ki+
+    199 root       0 -20       0      0      0 I  28.4   0.0   0:06.30 kworker+
+     94 root       0 -20       0      0      0 I  13.7   0.0   0:07.89 kworker+
+    159 root       0 -20       0      0      0 I  13.7   0.0   0:09.09 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S   7.8   3.6   0:08.16 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:02.54 Xorg
+   2419 root      20   0  323488  16124   6040 S   2.9   0.2   0:00.79 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.40 top
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.26 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.12 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.18 nvgpu_c+
+
+top - 11:08:28 up 2 min,  1 user,  load average: 2.64, 1.06, 0.40
+Tasks: 349 total,   1 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.3 us, 12.6 sy,  0.0 ni, 67.0 id,  0.3 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4177.5 free,   1877.6 used,   1395.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5329.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9858.9m 565336  74808 S 111.8   7.4   0:56.53 mono_ki+
+     36 root       0 -20       0      0      0 I  38.2   0.0   0:05.44 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:08.02 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S  10.8   3.6   0:08.27 gnome-s+
+   2419 root      20   0  323488  16128   6040 S   3.9   0.2   0:00.83 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:02.58 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.42 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.93 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.27 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.12 irq/128+
+    142 root      20   0       0      0      0 I   1.0   0.0   0:00.13 kworker+
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.05 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.13 irq/223+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.25 python3
+
+top - 11:08:29 up 2 min,  1 user,  load average: 2.64, 1.06, 0.40
+Tasks: 349 total,   1 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.8 us, 13.2 sy,  0.0 ni, 66.0 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4164.3 free,   1887.2 used,   1399.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5320.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9859.7m 568240  75328 S 118.6   7.4   0:57.74 mono_ki+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:08.15 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:05.50 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:09.22 kworker+
+    199 root       0 -20       0      0      0 I  12.7   0.0   0:06.43 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S   7.8   3.6   0:08.35 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:02.63 Xorg
+   2419 root      20   0  323488  16132   6040 S   3.9   0.2   0:00.87 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:00.45 top
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.14 irq/223+
+
+top - 11:08:30 up 2 min,  1 user,  load average: 2.51, 1.06, 0.41
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.5 us, 13.6 sy,  0.0 ni, 64.0 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4164.3 free,   1887.2 used,   1399.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5320.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9859.2m 569208  74712 R 128.4   7.5   0:59.05 mono_ki+
+    159 root       0 -20       0      0      0 I  25.5   0.0   0:09.48 kworker+
+    199 root       0 -20       0      0      0 I  25.5   0.0   0:06.69 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S   9.8   3.6   0:08.45 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   5.9   0.6   0:02.69 Xorg
+   2419 root      20   0  323488  16136   6040 S   3.9   0.2   0:00.91 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.94 systemd
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.09 irq/226+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.15 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.15 sugov:0
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.10 sugov:4
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.19 nvgpu_c+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.09 jtop
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.46 top
+
+top - 11:08:31 up 2 min,  1 user,  load average: 2.51, 1.06, 0.41
+Tasks: 349 total,   1 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.3 us, 13.9 sy,  0.0 ni, 63.1 id,  0.5 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4164.3 free,   1887.2 used,   1399.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5320.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9859.8m 572636  75236 D 133.3   7.5   1:00.41 mono_ki+
+    199 root       0 -20       0      0      0 D  52.0   0.0   0:07.22 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S   8.8   3.6   0:08.54 gnome-s+
+   2419 root      20   0  323488  16136   6040 S   3.9   0.2   0:00.95 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:02.73 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.48 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.13 irq/128+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.27 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.16 irq/223+
+
+top - 11:08:32 up 2 min,  1 user,  load average: 2.51, 1.06, 0.41
+Tasks: 349 total,   3 running, 346 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.6 us, 13.1 sy,  0.0 ni, 64.3 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4155.6 free,   1892.7 used,   1402.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5314.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9860.1m 575012  75764 D 128.4   7.5   1:01.72 mono_ki+
+    199 root       0 -20       0      0      0 R  52.9   0.0   0:07.76 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S   8.8   3.6   0:08.63 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:02.78 Xorg
+   2419 root      20   0  323488  16140   6040 S   3.9   0.2   0:00.99 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.95 systemd
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.20 nvgpu_c+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.49 top
+
+top - 11:08:34 up 2 min,  1 user,  load average: 2.51, 1.06, 0.41
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.7 us, 13.8 sy,  0.0 ni, 63.5 id,  0.3 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4155.6 free,   1892.7 used,   1402.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5314.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9864.9m 576860  76292 D 129.4   7.6   1:03.04 mono_ki+
+    199 root       0 -20       0      0      0 R  26.5   0.0   0:08.03 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:08.28 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:09.61 kworker+
+   2891 jonas     20   0 4060740 276448 112820 S   8.8   3.6   0:08.72 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:02.82 Xorg
+   2419 root      20   0  323488  16148   6040 S   2.9   0.2   0:01.02 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:00.52 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.14 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.17 irq/223+
+
+top - 11:08:35 up 2 min,  1 user,  load average: 2.51, 1.06, 0.41
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.4 us, 12.7 sy,  0.0 ni, 66.8 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4152.9 free,   1893.3 used,   1404.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5314.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9865.2m 577652  76808 D 109.8   7.6   1:04.16 mono_ki+
+    199 root       0 -20       0      0      0 I  36.3   0.0   0:08.40 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:09.74 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S  12.7   3.6   0:08.85 gnome-s+
+     94 root       0 -20       0      0      0 R   4.9   0.0   0:08.33 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:02.87 Xorg
+   2419 root      20   0  323488  16152   6040 S   2.9   0.2   0:01.05 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.54 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.96 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.28 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.18 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.21 nvgpu_c+
+   3380 root      20   0  397904  33336  26104 S   1.0   0.4   0:00.86 fwupd
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.03 bash
+
+top - 11:08:36 up 2 min,  1 user,  load average: 2.39, 1.06, 0.41
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.0 us, 13.2 sy,  0.0 ni, 68.0 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4152.9 free,   1893.3 used,   1404.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5314.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9866.4m 579764  77600 D 104.9   7.6   1:05.24 mono_ki+
+    159 root       0 -20       0      0      0 I  25.2   0.0   0:10.00 kworker+
+    199 root       0 -20       0      0      0 R  19.4   0.0   0:08.60 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   8.7   3.6   0:08.94 gnome-s+
+     94 root       0 -20       0      0      0 I   7.8   0.0   0:08.41 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:02.92 Xorg
+   2419 root      20   0  323488  16160   6040 S   3.9   0.2   0:01.09 jtop
+   4081 jonas     20   0   12024   3440   2808 R   1.9   0.0   0:00.56 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.15 irq/128+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.28 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.19 irq/223+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.10 jtop
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.10 python3
+
+top - 11:08:37 up 2 min,  1 user,  load average: 2.39, 1.06, 0.41
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.8 us, 13.7 sy,  0.0 ni, 67.6 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4152.9 free,   1893.3 used,   1404.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5314.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9867.1m 580820  78128 D 104.9   7.6   1:06.31 mono_ki+
+    199 root       0 -20       0      0      0 I  18.6   0.0   0:08.79 kworker+
+     41 root       0 -20       0      0      0 I  12.7   0.0   0:03.29 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:08.54 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   8.8   3.6   0:09.03 gnome-s+
+     36 root       0 -20       0      0      0 R   7.8   0.0   0:05.52 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:02.97 Xorg
+   2419 root      20   0  323488  16164   6040 S   3.9   0.2   0:01.13 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.58 top
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.20 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.06 kworker+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.26 python3
+
+top - 11:08:38 up 2 min,  1 user,  load average: 2.39, 1.06, 0.41
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.8 us, 13.0 sy,  0.0 ni, 66.1 id,  0.7 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4145.6 free,   1897.5 used,   1407.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5310.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9867.8m 582668  78920 D 118.6   7.6   1:07.52 mono_ki+
+     36 root       0 -20       0      0      0 I  30.4   0.0   0:05.83 kworker+
+     41 root       0 -20       0      0      0 R  20.6   0.0   0:03.50 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S  11.8   3.6   0:09.15 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:03.01 Xorg
+   2419 root      20   0  323488  16168   6040 S   2.9   0.2   0:01.16 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.60 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.97 systemd
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.16 irq/128+
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.06 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.21 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.16 sugov:0
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.22 nvgpu_c+
+
+top - 11:08:39 up 2 min,  1 user,  load average: 2.39, 1.06, 0.41
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.0 us, 12.4 sy,  0.0 ni, 64.3 id,  1.0 wa,  0.3 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4145.6 free,   1897.5 used,   1407.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5310.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9868.5m 585308  79448 D 128.4   7.7   1:08.83 mono_ki+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:08.67 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:05.63 kworker+
+    199 root       0 -20       0      0      0 I  12.7   0.0   0:08.92 kworker+
+    159 root       0 -20       0      0      0 R   9.8   0.0   0:10.10 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   5.9   3.6   0:09.21 gnome-s+
+     41 root       0 -20       0      0      0 I   4.9   0.0   0:03.55 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.06 Xorg
+   2419 root      20   0  323488  16172   6040 S   3.9   0.2   0:01.20 jtop
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.10 irq/226+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.22 irq/223+
+   3123 jonas     20   0  511208  45804  24004 S   1.0   0.6   0:00.83 python3
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.61 top
+
+top - 11:08:40 up 2 min,  1 user,  load average: 2.39, 1.06, 0.41
+Tasks: 349 total,   3 running, 346 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.9 us, 14.2 sy,  0.0 ni, 66.9 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4145.6 free,   1897.5 used,   1407.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5310.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9868.6m 586628  80240 D 109.9   7.7   1:09.94 mono_ki+
+    199 root       0 -20       0      0      0 I  25.7   0.0   0:09.18 kworker+
+    159 root       0 -20       0      0      0 R  14.9   0.0   0:10.25 kworker+
+     94 root       0 -20       0      0      0 I  13.9   0.0   0:08.81 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S  10.9   3.6   0:09.32 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.0   0.6   0:03.10 Xorg
+   2419 root      20   0  323488  16176   6040 S   3.0   0.2   0:01.23 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.63 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.98 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.29 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.23 irq/223+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.11 sugov:4
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.23 nvgpu_c+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.07 kworker+
+   2391 gdm       20   0 3823188 163072  84416 S   1.0   2.1   0:03.88 gnome-s+
+
+top - 11:08:41 up 2 min,  1 user,  load average: 2.68, 1.14, 0.44
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.3 us, 12.9 sy,  0.0 ni, 62.1 id,  0.3 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4138.5 free,   1901.6 used,   1410.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5305.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9873.4m 590060  81032 R 142.2   7.7   1:11.39 mono_ki+
+    159 root       0 -20       0      0      0 I  27.5   0.0   0:10.53 kworker+
+    199 root       0 -20       0      0      0 I  26.5   0.0   0:09.45 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   6.9   3.6   0:09.39 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.15 Xorg
+   2419 root      20   0  323488  16180   6040 S   2.9   0.2   0:01.26 jtop
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.17 irq/128+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.29 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.24 irq/223+
+    918 root      20   0       0      0      0 S   1.0   0.0   0:00.15 RTW_CMD+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.64 top
+
+top - 11:08:42 up 2 min,  1 user,  load average: 2.68, 1.14, 0.44
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.6 us, 12.6 sy,  0.0 ni, 61.7 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4138.5 free,   1901.6 used,   1410.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5305.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9874.4m 593280  81612 R 147.1   7.8   1:12.89 mono_ki+
+    159 root       0 -20       0      0      0 I  25.5   0.0   0:10.79 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:08.94 kworker+
+    199 root       0 -20       0      0      0 I  12.7   0.0   0:09.58 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   8.8   3.6   0:09.48 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   5.9   0.6   0:03.21 Xorg
+   2419 root      20   0  323488  16184   6040 S   3.9   0.2   0:01.30 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:00.67 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:07.99 systemd
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.25 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.24 nvgpu_c+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.11 jtop
+
+top - 11:08:43 up 2 min,  1 user,  load average: 2.68, 1.14, 0.44
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.9 us, 12.9 sy,  0.0 ni, 64.1 id,  0.5 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4138.5 free,   1901.6 used,   1410.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5305.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9875.1m 597500  82400 R 129.4   7.8   1:14.21 mono_ki+
+    199 root       0 -20       0      0      0 I  51.0   0.0   0:10.10 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   9.8   3.6   0:09.58 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:03.25 Xorg
+   2419 root      20   0  323488  16192   6040 S   2.9   0.2   0:01.33 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.69 top
+     13 root      20   0       0      0      0 I   1.0   0.0   0:00.07 rcu_pre+
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.30 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.18 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.26 irq/223+
+
+top - 11:08:44 up 2 min,  1 user,  load average: 2.68, 1.14, 0.44
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.7 us, 12.8 sy,  0.0 ni, 64.7 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4127.3 free,   1909.5 used,   1414.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5298.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9875.8m 599348  83192 S 131.4   7.9   1:15.55 mono_ki+
+    199 root       0 -20       0      0      0 I  26.5   0.0   0:10.37 kworker+
+     36 root       0 -20       0      0      0 I  12.7   0.0   0:05.96 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:05.76 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   8.8   3.6   0:09.67 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 R   4.9   0.6   0:03.30 Xorg
+   2419 root      20   0  323488  16196   6040 S   2.9   0.2   0:01.36 jtop
+     44 root      20   0       0      0      0 I   1.0   0.0   0:00.04 kworker+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.17 sugov:0
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.04 bash
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.70 top
+
+top - 11:08:45 up 2 min,  1 user,  load average: 2.68, 1.14, 0.44
+Tasks: 349 total,   1 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.1 us, 12.8 sy,  0.0 ni, 65.1 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4127.3 free,   1909.5 used,   1414.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5298.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9876.4m 601196  83984 S 125.5   7.9   1:16.83 mono_ki+
+    159 root       0 -20       0      0      0 I  26.5   0.0   0:11.06 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:09.07 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:05.89 kworker+
+   2891 jonas     20   0 4060740 276344 112988 S   6.9   3.6   0:09.74 gnome-s+
+   2419 root      20   0  323488  16200   6040 S   3.9   0.2   0:01.40 jtop
+   2756 root      20   0   24.2g  47636  27656 S   2.9   0.6   0:03.33 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.72 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.00 systemd
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.30 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.27 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.25 nvgpu_c+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.08 kworker+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.12 jtop
+
+top - 11:08:46 up 2 min,  1 user,  load average: 2.62, 1.15, 0.45
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.5 us, 12.8 sy,  0.0 ni, 60.9 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4127.3 free,   1909.5 used,   1414.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5298.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9876.6m 604364  85040 R 146.1   7.9   1:18.32 mono_ki+
+    159 root       0 -20       0      0      0 I  25.5   0.0   0:11.32 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:09.20 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:06.02 kworker+
+   2891 jonas     20   0 4060740 276408 113008 S  10.8   3.6   0:09.85 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   5.9   0.6   0:03.39 Xorg
+   2419 root      20   0  323488  16208   6040 S   3.9   0.2   0:01.44 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.74 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.19 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.28 irq/223+
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.11 python3
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.27 python3
+
+top - 11:08:47 up 2 min,  1 user,  load average: 2.62, 1.15, 0.45
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.1 us, 17.7 sy,  0.0 ni, 48.4 id,  9.2 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4100.7 free,   1919.8 used,   1430.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5283.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9877.3m 605156  85304 R 133.3   7.9   1:19.68 mono_ki+
+    159 root       0 -20       0      0      0 I  25.5   0.0   0:11.58 kworker+
+    199 root       0 -20       0      0      0 I  25.5   0.0   0:10.63 kworker+
+   3058 jonas     20   0  313176   8108   6176 D  14.7   0.1   0:00.18 gsd-hou+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:09.33 kworker+
+   2891 jonas     20   0 4060740 276432 113008 S  11.8   3.6   0:09.97 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:03.43 Xorg
+   4560 jonas     20   0  427660  12988   9480 S   3.9   0.2   0:00.04 deja-du+
+   2419 root      20   0  323488  16208   6040 S   2.9   0.2   0:01.47 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.01 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.12 ksoftir+
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.11 irq/226+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.29 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.26 nvgpu_c+
+   2877 jonas     20   0  558056  15824  11188 S   1.0   0.2   0:00.18 gnome-s+
+   2987 jonas     20   0  317540   7720   6820 S   1.0   0.1   0:00.02 gvfs-af+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.75 top
+
+top - 11:08:48 up 2 min,  1 user,  load average: 2.62, 1.15, 0.45
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.5 us, 19.6 sy,  0.0 ni, 47.1 id,  6.1 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4100.7 free,   1919.8 used,   1430.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5283.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9877.8m 607004  85304 R 160.8   8.0   1:21.32 mono_ki+
+     36 root       0 -20       0      0      0 R  39.2   0.0   0:06.36 kworker+
+    159 root       0 -20       0      0      0 I  26.5   0.0   0:11.85 kworker+
+     94 root       0 -20       0      0      0 I  13.7   0.0   0:09.47 kworker+
+   3058 jonas     20   0  314188   9120   6176 D  11.8   0.1   0:00.30 gsd-hou+
+   2891 jonas     20   0 4060740 276432 113008 S   7.8   3.6   0:10.05 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.48 Xorg
+   2419 root      20   0  323488  16212   6040 S   2.9   0.2   0:01.50 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:00.78 top
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.31 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.20 irq/128+
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.07 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.30 irq/223+
+    785 root      20   0    2472   1632   1440 S   1.0   0.0   0:00.05 nvfanco+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.28 python3
+
+top - 11:08:49 up 2 min,  1 user,  load average: 2.62, 1.15, 0.45
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.6 us, 13.1 sy,  0.0 ni, 62.4 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4100.7 free,   1919.8 used,   1430.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5283.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9878.3m 607796  85304 D 135.3   8.0   1:22.70 mono_ki+
+     36 root       0 -20       0      0      0 R  40.2   0.0   0:06.77 kworker+
+     41 root       0 -20       0      0      0 I  12.7   0.0   0:03.68 kworker+
+   2891 jonas     20   0 4060740 276432 113008 S   7.8   3.6   0:10.13 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.53 Xorg
+   2419 root      20   0  323488  16220   6040 S   3.9   0.2   0:01.54 jtop
+   3328 jonas     20   0  786324  85552  49832 S   2.0   1.1   0:02.07 gnome-s+
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.02 systemd
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.31 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.31 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.18 sugov:0
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.27 nvgpu_c+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.13 jtop
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.05 bash
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.79 top
+
+top - 11:08:50 up 3 min,  1 user,  load average: 2.62, 1.15, 0.45
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.0 us, 12.7 sy,  0.0 ni, 65.3 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4082.9 free,   1924.7 used,   1443.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5274.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9878.6m 608588  85304 D 123.5   8.0   1:23.96 mono_ki+
+     94 root       0 -20       0      0      0 R  28.4   0.0   0:09.76 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:11.98 kworker+
+     36 root       0 -20       0      0      0 I  10.8   0.0   0:06.88 kworker+
+   2891 jonas     20   0 4060740 276432 113008 S   9.8   3.6   0:10.23 gnome-s+
+   2419 root      20   0  323488  16224   6040 S   3.9   0.2   0:01.58 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:03.57 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.81 top
+     19 root      20   0       0      0      0 S   1.0   0.0   0:00.04 ksoftir+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.21 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.32 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.09 kworker+
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.12 python3
+
+top - 11:08:51 up 3 min,  1 user,  load average: 2.57, 1.17, 0.46
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.2 us, 13.2 sy,  0.0 ni, 64.8 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4082.9 free,   1924.7 used,   1443.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5274.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9879.5m 609908  85304 D 122.5   8.0   1:25.21 mono_ki+
+    199 root       0 -20       0      0      0 R  44.1   0.0   0:11.08 kworker+
+     94 root       0 -20       0      0      0 I   9.8   0.0   0:09.86 kworker+
+   2891 jonas     20   0 4060740 276432 113008 R   8.8   3.6   0:10.32 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:03.61 Xorg
+   2419 root      20   0  323488  16228   6040 S   2.9   0.2   0:01.61 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.83 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.03 systemd
+    291 root     -51   0       0      0      0 D   1.0   0.0   0:00.33 irq/223+
+    518 root      20   0  338428  20584  15256 S   1.0   0.3   0:00.84 Network+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.12 sugov:4
+
+top - 11:08:52 up 3 min,  1 user,  load average: 2.57, 1.17, 0.46
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.5 us, 13.8 sy,  0.0 ni, 62.8 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4082.9 free,   1924.7 used,   1443.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5274.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9879.9m 610964  85304 D 131.4   8.0   1:26.55 mono_ki+
+    159 root       0 -20       0      0      0 I  25.5   0.0   0:12.24 kworker+
+    199 root       0 -20       0      0      0 R  13.7   0.0   0:11.22 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:09.99 kworker+
+   2891 jonas     20   0 4060740 276432 113008 S  10.8   3.6   0:10.43 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.66 Xorg
+   2419 root      20   0  323488  16228   6040 S   3.9   0.2   0:01.65 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.85 top
+     46 root      20   0       0      0      0 I   1.0   0.0   0:00.15 kworker+
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.32 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.34 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.28 nvgpu_c+
+
+top - 11:08:53 up 3 min,  1 user,  load average: 2.57, 1.17, 0.46
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.5 us, 12.1 sy,  0.0 ni, 59.7 id,  3.1 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4074.5 free,   1930.0 used,   1446.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5268.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9880.5m 613076  85304 D 145.1   8.0   1:28.03 mono_ki+
+    199 root       0 -20       0      0      0 R  35.3   0.0   0:11.58 kworker+
+     94 root       0 -20       0      0      0 I  13.7   0.0   0:10.13 kworker+
+   2891 jonas     20   0 4060740 276432 113008 S   7.8   3.6   0:10.51 gnome-s+
+   2419 root      20   0  323488  16228   6040 S   3.9   0.2   0:01.69 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:03.70 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.87 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.04 systemd
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.22 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.35 irq/223+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.29 python3
+
+top - 11:08:54 up 3 min,  1 user,  load average: 2.57, 1.17, 0.46
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.1 us, 12.5 sy,  0.0 ni, 67.5 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4074.5 free,   1930.0 used,   1446.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5268.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9880.5m 613604  85304 D 115.7   8.0   1:29.21 mono_ki+
+    199 root       0 -20       0      0      0 I  35.3   0.0   0:11.94 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:10.26 kworker+
+   2891 jonas     20   0 4060740 276432 113008 S   7.8   3.6   0:10.59 gnome-s+
+    159 root       0 -20       0      0      0 R   4.9   0.0   0:12.29 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.75 Xorg
+   2419 root      20   0  323488  16228   6040 S   2.9   0.2   0:01.72 jtop
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.32 kworker+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.29 nvgpu_c+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.88 top
+
+top - 11:08:55 up 3 min,  1 user,  load average: 2.57, 1.17, 0.46
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.4 us, 13.5 sy,  0.0 ni, 61.4 id,  0.3 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4074.5 free,   1930.0 used,   1446.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5268.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9881.0m 615980  85304 D 136.3   8.1   1:30.60 mono_ki+
+    199 root       0 -20       0      0      0 I  39.2   0.0   0:12.34 kworker+
+   2891 jonas     20   0 4059716 275444 113024 S  13.7   3.6   0:10.73 gnome-s+
+    159 root       0 -20       0      0      0 I   7.8   0.0   0:12.37 kworker+
+    120 root       0 -20       0      0      0 R   5.9   0.0   0:06.08 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.80 Xorg
+   2419 root      20   0  323488  16228   6040 S   3.9   0.2   0:01.76 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.90 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.05 systemd
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.12 irq/226+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.23 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.36 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.10 kworker+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.14 jtop
+   3123 jonas     20   0  511208  45804  24004 S   1.0   0.6   0:00.84 python3
+
+top - 11:08:56 up 3 min,  1 user,  load average: 2.61, 1.20, 0.47
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.2 us, 12.8 sy,  0.0 ni, 65.0 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4067.8 free,   1933.7 used,   1449.4 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5265.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9881.4m 617564  85304 D 127.5   8.1   1:31.90 mono_ki+
+    199 root       0 -20       0      0      0 R  46.1   0.0   0:12.81 kworker+
+   2891 jonas     20   0 4059716 275444 113024 S   8.8   3.6   0:10.82 gnome-s+
+    120 root       0 -20       0      0      0 I   6.9   0.0   0:06.15 kworker+
+   2419 root      20   0  323488  16228   6040 S   3.9   0.2   0:01.80 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:03.84 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:00.93 top
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.33 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.37 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.30 nvgpu_c+
+
+top - 11:08:57 up 3 min,  1 user,  load average: 2.61, 1.20, 0.47
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.7 us, 12.7 sy,  0.0 ni, 64.8 id,  1.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4067.8 free,   1933.7 used,   1449.4 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5265.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9881.8m 618092  85304 D 122.5   8.1   1:33.15 mono_ki+
+    199 root       0 -20       0      0      0 I  17.6   0.0   0:12.99 kworker+
+     41 root       0 -20       0      0      0 I  12.7   0.0   0:03.81 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:06.28 kworker+
+     36 root       0 -20       0      0      0 R   8.8   0.0   0:06.97 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S   7.8   3.6   0:10.90 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   5.9   0.6   0:03.90 Xorg
+   2419 root      20   0  323488  16232   6040 S   2.9   0.2   0:01.83 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.06 systemd
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.24 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.38 irq/223+
+    518 root      20   0  338428  20584  15256 S   1.0   0.3   0:00.85 Network+
+   2610 gdm       20   0  466044   9948   8108 S   1.0   0.1   0:00.06 gsd-sha+
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.06 bash
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:00.94 top
+
+top - 11:08:58 up 3 min,  1 user,  load average: 2.61, 1.20, 0.47
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.7 us, 13.8 sy,  0.0 ni, 61.5 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4067.8 free,   1933.7 used,   1449.4 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5265.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9882.3m 621260  85304 D 142.2   8.1   1:34.60 mono_ki+
+     36 root       0 -20       0      0      0 R  39.2   0.0   0:07.37 kworker+
+     41 root       0 -20       0      0      0 I  12.7   0.0   0:03.94 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S   6.9   3.6   0:10.97 gnome-s+
+   2419 root      20   0  323488  16232   6040 S   2.9   0.2   0:01.86 jtop
+   2756 root      20   0   24.2g  47636  27656 S   2.9   0.6   0:03.93 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.96 top
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.08 kworker+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.33 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.39 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.19 sugov:0
+
+top - 11:08:59 up 3 min,  1 user,  load average: 2.61, 1.20, 0.47
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.0 us, 14.2 sy,  0.0 ni, 63.8 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4060.4 free,   1938.0 used,   1452.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5260.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9882.9m 622052  85304 D 125.5   8.2   1:35.88 mono_ki+
+     36 root       0 -20       0      0      0 I  16.7   0.0   0:07.54 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:10.39 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:06.41 kworker+
+    199 root       0 -20       0      0      0 R  11.8   0.0   0:13.11 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S  11.8   3.6   0:11.09 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:03.98 Xorg
+   2419 root      20   0  323488  16232   6040 S   2.9   0.2   0:01.89 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:00.98 top
+     24 root      20   0       0      0      0 S   1.0   0.0   0:00.04 ksoftir+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.40 irq/223+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.13 sugov:4
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.31 nvgpu_c+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.15 jtop
+
+top - 11:09:00 up 3 min,  1 user,  load average: 2.64, 1.23, 0.48
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.7 us, 12.5 sy,  0.0 ni, 63.8 id,  0.3 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4060.4 free,   1938.0 used,   1452.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5260.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9883.2m 622844  85304 R 130.4   8.2   1:37.21 mono_ki+
+    199 root       0 -20       0      0      0 R  52.9   0.0   0:13.65 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S  10.8   3.6   0:11.20 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   5.9   0.6   0:04.04 Xorg
+   2419 root      20   0  323488  16232   6040 S   3.9   0.2   0:01.93 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.00 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.07 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.34 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.25 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.41 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.11 kworker+
+
+top - 11:09:01 up 3 min,  1 user,  load average: 2.64, 1.23, 0.48
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.9 us, 13.2 sy,  0.0 ni, 59.9 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4060.4 free,   1938.0 used,   1452.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5260.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9883.6m 623636  85304 R 156.9   8.2   1:38.81 mono_ki+
+    199 root       0 -20       0      0      0 I  51.0   0.0   0:14.17 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S   8.8   3.6   0:11.29 gnome-s+
+   2419 root      20   0  323488  16232   6040 S   2.9   0.2   0:01.96 jtop
+   2756 root      20   0   24.2g  47636  27656 R   2.9   0.6   0:04.07 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.02 top
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.32 nvgpu_c+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.30 python3
+
+top - 11:09:02 up 3 min,  1 user,  load average: 2.64, 1.23, 0.48
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.9 us, 12.3 sy,  0.0 ni, 63.8 id,  1.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4055.0 free,   1940.1 used,   1455.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5258.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9884.2m 624428  85304 R 129.4   8.2   1:40.13 mono_ki+
+    199 root       0 -20       0      0      0 I  39.2   0.0   0:14.57 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:10.52 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   5.9   0.6   0:04.13 Xorg
+   2891 jonas     20   0 4059716 275492 113024 S   5.9   3.6   0:11.35 gnome-s+
+   2419 root      20   0  323488  16232   6040 S   3.9   0.2   0:02.00 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.08 systemd
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.26 irq/128+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.34 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.42 irq/223+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.03 top
+
+top - 11:09:03 up 3 min,  1 user,  load average: 2.64, 1.23, 0.48
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.8 us, 13.5 sy,  0.0 ni, 60.7 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4055.0 free,   1940.1 used,   1455.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5258.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9884.7m 625220  85304 R 151.0   8.2   1:41.67 mono_ki+
+    120 root       0 -20       0      0      0 I  24.5   0.0   0:06.66 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:10.65 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:12.50 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S   6.9   3.6   0:11.42 gnome-s+
+   2419 root      20   0  323488  16232   6040 S   3.9   0.2   0:02.04 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.17 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:01.06 top
+     13 root      20   0       0      0      0 I   1.0   0.0   0:00.08 rcu_pre+
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.13 irq/226+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.43 irq/223+
+   3123 jonas     20   0  511208  45804  24004 S   1.0   0.6   0:00.85 python3
+
+top - 11:09:04 up 3 min,  1 user,  load average: 2.64, 1.23, 0.48
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.4 us, 13.1 sy,  0.0 ni, 62.7 id,  0.5 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4055.0 free,   1940.1 used,   1455.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5258.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9885.4m 626276  85304 R 138.2   8.2   1:43.08 mono_ki+
+    199 root       0 -20       0      0      0 I  38.2   0.0   0:14.96 kworker+
+    159 root       0 -20       0      0      0 I  13.7   0.0   0:12.64 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S   8.8   3.6   0:11.51 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:04.22 Xorg
+   2419 root      20   0  323488  16232   6040 S   2.9   0.2   0:02.07 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.09 systemd
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.44 irq/223+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.14 sugov:4
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.33 nvgpu_c+
+   1272 root      20   0 2155228  43840  24544 S   1.0   0.6   0:00.24 contain+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.16 jtop
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.07 top
+
+top - 11:09:05 up 3 min,  1 user,  load average: 2.67, 1.26, 0.50
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.1 us, 12.3 sy,  0.0 ni, 61.9 id,  0.3 wa,  0.3 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4049.1 free,   1942.8 used,   1458.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5255.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9886.4m 627068  85304 S 146.1   8.2   1:44.57 mono_ki+
+    199 root       0 -20       0      0      0 I  39.2   0.0   0:15.36 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:10.78 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S   8.8   3.6   0:11.60 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.26 Xorg
+   2419 root      20   0  323488  16232   6040 S   2.9   0.2   0:02.10 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.09 top
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.35 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.27 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.45 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.12 kworker+
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.07 bash
+
+top - 11:09:06 up 3 min,  1 user,  load average: 2.67, 1.26, 0.50
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.3 us, 13.3 sy,  0.0 ni, 59.4 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4049.1 free,   1942.8 used,   1458.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5255.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9886.8m 627860  85304 S 155.9   8.2   1:46.16 mono_ki+
+    199 root       0 -20       0      0      0 I  38.2   0.0   0:15.75 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:12.77 kworker+
+   2891 jonas     20   0 4059716 275492 113024 S   8.8   3.6   0:11.69 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:04.31 Xorg
+   2419 root      20   0  323488  16232   6040 S   2.9   0.2   0:02.13 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.11 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.10 systemd
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.35 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.46 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.20 sugov:0
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.34 nvgpu_c+
+
+top - 11:09:07 up 3 min,  1 user,  load average: 2.67, 1.26, 0.50
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.1 us, 12.5 sy,  0.0 ni, 66.4 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4049.1 free,   1942.8 used,   1458.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5255.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9887.2m 628388  85304 S 113.7   8.2   1:47.32 mono_ki+
+    199 root       0 -20       0      0      0 I  51.0   0.0   0:16.27 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S  10.8   3.6   0:11.80 gnome-s+
+   2419 root      20   0  323488  16236   6040 S   3.9   0.2   0:02.17 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.35 Xorg
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.28 irq/128+
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.09 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.47 irq/223+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.17 jtop
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.12 top
+
+top - 11:09:08 up 3 min,  1 user,  load average: 2.67, 1.26, 0.50
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.8 us, 12.5 sy,  0.0 ni, 59.7 id,  0.3 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4042.7 free,   1946.0 used,   1462.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5252.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9888.0m 629444  85304 R 156.4   8.2   1:48.90 mono_ki+
+    120 root       0 -20       0      0      0 I  25.7   0.0   0:06.92 kworker+
+    199 root       0 -20       0      0      0 I  13.9   0.0   0:16.41 kworker+
+     36 root       0 -20       0      0      0 I  12.9   0.0   0:07.67 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S  10.9   3.6   0:11.91 gnome-s+
+   2419 root      20   0  323488  16236   6040 S   5.0   0.2   0:02.22 jtop
+   2756 root      20   0   24.2g  47636  27656 S   5.0   0.6   0:04.40 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.14 top
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.48 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.13 kworker+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.31 python3
+
+top - 11:09:09 up 3 min,  1 user,  load average: 2.67, 1.26, 0.50
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.5 us, 13.2 sy,  0.0 ni, 60.3 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4042.7 free,   1946.0 used,   1462.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5252.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9888.4m 631820  85304 D 152.9   8.3   1:50.46 mono_ki+
+     36 root       0 -20       0      0      0 R  51.0   0.0   0:08.19 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   5.9   3.6   0:11.97 gnome-s+
+   2419 root      20   0  323488  16236   6040 S   3.9   0.2   0:02.26 jtop
+   2756 root      20   0   24.2g  47636  27656 S   2.9   0.6   0:04.43 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.16 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.11 systemd
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.35 nvgpu_c+
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.13 python3
+
+top - 11:09:10 up 3 min,  1 user,  load average: 2.78, 1.30, 0.52
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.6 us, 13.5 sy,  0.0 ni, 62.1 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4042.7 free,   1946.0 used,   1462.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5252.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9888.4m 632348  85304 D 136.3   8.3   1:51.85 mono_ki+
+     36 root       0 -20       0      0      0 I  25.5   0.0   0:08.45 kworker+
+     94 root       0 -20       0      0      0 I  13.7   0.0   0:10.92 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:07.05 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S  10.8   3.6   0:12.08 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:04.48 Xorg
+   2391 gdm       20   0 3823188 163072  84416 S   3.9   2.1   0:03.92 gnome-s+
+   2419 root      20   0  323488  16236   6040 S   3.9   0.2   0:02.30 jtop
+     41 root       0 -20       0      0      0 R   2.0   0.0   0:03.96 kworker+
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.18 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.12 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.36 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.29 irq/128+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.36 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.49 irq/223+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.15 sugov:4
+   2592 root      20   0  359748  21688  14228 S   1.0   0.3   0:06.70 package+
+
+top - 11:09:11 up 3 min,  1 user,  load average: 2.78, 1.30, 0.52
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.3 us, 12.8 sy,  0.0 ni, 58.9 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4034.6 free,   1951.2 used,   1465.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5247.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9889.4m 635252  85304 D 155.9   8.3   1:53.44 mono_ki+
+    199 root       0 -20       0      0      0 R  28.4   0.0   0:16.70 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:11.05 kworker+
+     41 root       0 -20       0      0      0 I  10.8   0.0   0:04.07 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   8.8   3.6   0:12.17 gnome-s+
+   2419 root      20   0  323488  16236   6040 S   3.9   0.2   0:02.34 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.52 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.20 top
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.14 irq/226+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.50 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.36 nvgpu_c+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.18 jtop
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.14 python3
+
+top - 11:09:12 up 3 min,  1 user,  load average: 2.78, 1.30, 0.52
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us, 14.0 sy,  0.0 ni, 64.0 id,  0.5 wa,  0.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4034.6 free,   1951.2 used,   1465.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5247.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9889.7m 636572  85304 D 125.5   8.3   1:54.72 mono_ki+
+    159 root       0 -20       0      0      0 I  25.5   0.0   0:13.03 kworker+
+    120 root       0 -20       0      0      0 R  17.6   0.0   0:07.23 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S  10.8   3.6   0:12.28 gnome-s+
+    199 root       0 -20       0      0      0 I   9.8   0.0   0:16.80 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:04.57 Xorg
+   2419 root      20   0  323488  16236   6040 S   2.9   0.2   0:02.37 jtop
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.13 systemd
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.30 irq/128+
+    291 root     -51   0       0      0      0 D   1.0   0.0   0:00.51 irq/223+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.21 top
+
+top - 11:09:13 up 3 min,  1 user,  load average: 2.78, 1.30, 0.52
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.1 us, 13.1 sy,  0.0 ni, 64.8 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4034.6 free,   1951.2 used,   1465.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5247.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9890.0m 636836  85304 D 126.5   8.3   1:56.01 mono_ki+
+     36 root       0 -20       0      0      0 I  26.5   0.0   0:08.72 kworker+
+    120 root       0 -20       0      0      0 I  19.6   0.0   0:07.43 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   7.8   3.6   0:12.36 gnome-s+
+     41 root       0 -20       0      0      0 R   6.9   0.0   0:04.14 kworker+
+   2419 root      20   0  323488  16236   6040 S   3.9   0.2   0:02.41 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.61 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.23 top
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.52 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.14 kworker+
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.08 bash
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.32 python3
+
+top - 11:09:14 up 3 min,  1 user,  load average: 2.78, 1.30, 0.52
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.9 us, 13.5 sy,  0.0 ni, 63.8 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4029.3 free,   1953.7 used,   1467.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5244.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9890.6m 638420  85304 D 133.3   8.4   1:57.37 mono_ki+
+    199 root       0 -20       0      0      0 I  25.5   0.0   0:17.06 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:13.16 kworker+
+    120 root       0 -20       0      0      0 R   8.8   0.0   0:07.52 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   6.9   3.6   0:12.43 gnome-s+
+     41 root       0 -20       0      0      0 I   5.9   0.0   0:04.20 kworker+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:04.66 Xorg
+   2419 root      20   0  323488  16236   6040 S   2.9   0.2   0:02.44 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:01.26 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.14 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.13 ksoftir+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.31 irq/128+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.37 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.53 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.37 nvgpu_c+
+
+top - 11:09:15 up 3 min,  1 user,  load average: 2.87, 1.35, 0.54
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.8 us, 13.0 sy,  0.0 ni, 62.2 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4029.3 free,   1953.7 used,   1467.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5244.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9890.8m 639212  85304 D 139.2   8.4   1:58.79 mono_ki+
+    199 root       0 -20       0      0      0 I  25.5   0.0   0:17.32 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:11.18 kworker+
+    159 root       0 -20       0      0      0 R  10.8   0.0   0:13.27 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   6.9   3.6   0:12.50 gnome-s+
+    120 root       0 -20       0      0      0 I   3.9   0.0   0:07.56 kworker+
+   2419 root      20   0  323488  16236   6040 S   3.9   0.2   0:02.48 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.70 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.28 top
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.37 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.54 irq/223+
+
+top - 11:09:16 up 3 min,  1 user,  load average: 2.87, 1.35, 0.54
+Tasks: 350 total,   3 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.3 us, 12.5 sy,  0.0 ni, 59.5 id,  0.3 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4029.3 free,   1953.7 used,   1467.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5244.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9891.5m 640268  85304 R 160.8   8.4   2:00.43 mono_ki+
+    159 root       0 -20       0      0      0 R  40.2   0.0   0:13.68 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:11.31 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   7.8   3.6   0:12.58 gnome-s+
+   2419 root      20   0  323488  16236   6040 S   3.9   0.2   0:02.52 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.74 Xorg
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.10 kworker+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.21 sugov:0
+    918 root      20   0       0      0      0 S   1.0   0.0   0:00.16 RTW_CMD+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.38 nvgpu_c+
+   3123 jonas     20   0  511208  45804  24004 S   1.0   0.6   0:00.86 python3
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.29 top
+
+top - 11:09:17 up 3 min,  1 user,  load average: 2.87, 1.35, 0.54
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us, 13.1 sy,  0.0 ni, 65.7 id,  0.7 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4023.5 free,   1956.6 used,   1470.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5242.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9892.0m 641060  85304 R 122.5   8.4   2:01.68 mono_ki+
+    120 root       0 -20       0      0      0 I  25.5   0.0   0:07.82 kworker+
+    199 root       0 -20       0      0      0 I  13.7   0.0   0:17.46 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:11.44 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   8.8   3.6   0:12.67 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.78 Xorg
+   2419 root      20   0  323488  16240   6040 S   2.9   0.2   0:02.55 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.31 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.15 systemd
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.32 irq/128+
+    159 root       0 -20       0      0      0 I   1.0   0.0   0:13.69 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.55 irq/223+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.16 sugov:4
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.15 kworker+
+
+top - 11:09:18 up 3 min,  1 user,  load average: 2.87, 1.35, 0.54
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.7 us, 12.8 sy,  0.0 ni, 60.7 id,  1.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4023.5 free,   1956.6 used,   1470.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5242.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9893.3m 642644  85304 S 149.0   8.4   2:03.20 mono_ki+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:11.57 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:07.95 kworker+
+    159 root       0 -20       0      0      0 I  12.7   0.0   0:13.82 kworker+
+    199 root       0 -20       0      0      0 I  12.7   0.0   0:17.59 kworker+
+   2891 jonas     20   0 4059716 275464 113040 R   6.9   3.6   0:12.74 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.82 Xorg
+   2419 root      20   0  323488  16240   6040 S   2.9   0.2   0:02.58 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.33 top
+     46 root      20   0       0      0      0 I   1.0   0.0   0:00.16 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.56 irq/223+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.19 jtop
+
+top - 11:09:19 up 3 min,  1 user,  load average: 2.87, 1.35, 0.54
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.4 us, 12.7 sy,  0.0 ni, 65.1 id,  0.5 wa,  0.3 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4023.5 free,   1956.6 used,   1470.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5242.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9893.5m 643436  85568 S 125.5   8.4   2:04.48 mono_ki+
+    199 root       0 -20       0      0      0 I  51.0   0.0   0:18.11 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   7.8   3.6   0:12.82 gnome-s+
+   2419 root      20   0  323488  16240   6040 S   3.9   0.2   0:02.62 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.86 Xorg
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.16 systemd
+     88 root      20   0       0      0      0 I   1.0   0.0   0:00.03 kworker+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.33 irq/128+
+    142 root      20   0       0      0      0 I   1.0   0.0   0:00.14 kworker+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.38 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.57 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.39 nvgpu_c+
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.33 python3
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.34 top
+
+top - 11:09:20 up 3 min,  1 user,  load average: 2.80, 1.36, 0.54
+Tasks: 350 total,   1 running, 349 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.4 us, 12.8 sy,  0.0 ni, 65.9 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4016.2 free,   1960.2 used,   1474.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5238.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9893.8m 643700  85568 D 118.6   8.4   2:05.69 mono_ki+
+    199 root       0 -20       0      0      0 I  52.0   0.0   0:18.64 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   5.9   3.6   0:12.88 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:04.91 Xorg
+   2419 root      20   0  323488  16240   6040 S   2.9   0.2   0:02.65 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:01.37 top
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.15 irq/226+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.58 irq/223+
+
+top - 11:09:21 up 3 min,  1 user,  load average: 2.80, 1.36, 0.54
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.7 us, 13.0 sy,  0.0 ni, 65.5 id,  0.3 wa,  0.2 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4016.2 free,   1960.2 used,   1474.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5238.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9894.7m 645020  85568 D 126.5   8.5   2:06.98 mono_ki+
+    120 root       0 -20       0      0      0 I  37.3   0.0   0:08.33 kworker+
+    199 root       0 -20       0      0      0 R  13.7   0.0   0:18.78 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   7.8   3.6   0:12.96 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.95 Xorg
+   2419 root      20   0  323488  16240   6040 S   2.9   0.2   0:02.68 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.39 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.17 systemd
+    516 message+  20   0    9644   5788   3436 S   1.0   0.1   0:01.28 dbus-da+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.40 nvgpu_c+
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.09 bash
+
+top - 11:09:22 up 3 min,  1 user,  load average: 2.80, 1.36, 0.54
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.4 us, 12.7 sy,  0.0 ni, 65.0 id,  1.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4016.2 free,   1960.2 used,   1474.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5238.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9895.5m 645812  85568 D 119.6   8.5   2:08.20 mono_ki+
+    199 root       0 -20       0      0      0 R  52.9   0.0   0:19.32 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   5.9   3.6   0:13.02 gnome-s+
+   2419 root      20   0  323488  16240   6040 S   3.9   0.2   0:02.72 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:04.99 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.41 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.34 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.59 irq/223+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.16 kworker+
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.15 python3
+
+top - 11:09:23 up 3 min,  1 user,  load average: 2.80, 1.36, 0.54
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.8 us, 12.3 sy,  0.0 ni, 64.8 id,  0.7 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4009.6 free,   1963.4 used,   1477.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5235.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9895.8m 647396  85568 D 128.4   8.5   2:09.51 mono_ki+
+    199 root       0 -20       0      0      0 I  49.0   0.0   0:19.82 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   7.8   3.6   0:13.10 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:05.03 Xorg
+     94 root       0 -20       0      0      0 R   2.9   0.0   0:11.60 kworker+
+   2419 root      20   0  323488  16240   6040 S   2.9   0.2   0:02.75 jtop
+     29 root      20   0       0      0      0 S   1.0   0.0   0:00.05 ksoftir+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.39 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.60 irq/223+
+    785 root      20   0    2472   1632   1440 S   1.0   0.0   0:00.06 nvfanco+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.20 jtop
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.42 top
+
+top - 11:09:24 up 3 min,  1 user,  load average: 2.80, 1.36, 0.54
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.4 us, 13.6 sy,  0.0 ni, 62.2 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4009.6 free,   1963.4 used,   1477.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5235.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9896.4m 648716  85568 D 137.3   8.5   2:10.91 mono_ki+
+     41 root       0 -20       0      0      0 I  26.5   0.0   0:04.47 kworker+
+     36 root       0 -20       0      0      0 R  16.7   0.0   0:08.89 kworker+
+     94 root       0 -20       0      0      0 I   9.8   0.0   0:11.70 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   9.8   3.6   0:13.20 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:05.08 Xorg
+   2419 root      20   0  323488  16240   6040 S   3.9   0.2   0:02.79 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.44 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.18 systemd
+     13 root      20   0       0      0      0 I   1.0   0.0   0:00.09 rcu_pre+
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.35 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.61 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.22 sugov:0
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.17 sugov:4
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.41 nvgpu_c+
+
+top - 11:09:26 up 3 min,  1 user,  load average: 2.90, 1.40, 0.56
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.6 us, 12.5 sy,  0.0 ni, 61.9 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4009.6 free,   1963.4 used,   1477.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5235.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9897.1m 650036  85568 D 140.8   8.5   2:12.36 mono_ki+
+     41 root       0 -20       0      0      0 I  25.2   0.0   0:04.73 kworker+
+    199 root       0 -20       0      0      0 R  19.4   0.0   0:20.02 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   9.7   3.6   0:13.30 gnome-s+
+     36 root       0 -20       0      0      0 I   8.7   0.0   0:08.98 kworker+
+   2419 root      20   0  323488  16240   6040 S   3.9   0.2   0:02.83 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:05.12 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   1.9   0.0   0:01.46 top
+    142 root      20   0       0      0      0 I   1.0   0.0   0:00.15 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.62 irq/223+
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.21 jtop
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.34 python3
+
+top - 11:09:27 up 3 min,  1 user,  load average: 2.90, 1.40, 0.56
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.8 us, 13.2 sy,  0.0 ni, 64.0 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4002.7 free,   1967.1 used,   1481.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5231.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9897.4m 650564  85568 D 128.4   8.5   2:13.67 mono_ki+
+    199 root       0 -20       0      0      0 R  52.9   0.0   0:20.56 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   6.9   3.6   0:13.37 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   3.9   0.6   0:05.16 Xorg
+   2419 root      20   0  323488  16240   6040 S   2.9   0.2   0:02.86 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.48 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.19 systemd
+    150 root      20   0       0      0      0 I   1.0   0.0   0:00.11 kworker+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.42 nvgpu_c+
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.17 kworker+
+
+top - 11:09:28 up 3 min,  1 user,  load average: 2.90, 1.40, 0.56
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.8 us, 12.7 sy,  0.0 ni, 64.2 id,  1.8 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4002.7 free,   1967.1 used,   1481.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5231.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9898.1m 652148  85568 D 123.8   8.5   2:14.92 mono_ki+
+     94 root       0 -20       0      0      0 R  35.6   0.0   0:12.06 kworker+
+    199 root       0 -20       0      0      0 I  17.8   0.0   0:20.74 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   6.9   3.6   0:13.44 gnome-s+
+   2419 root      20   0  323488  16244   6040 S   4.0   0.2   0:02.90 jtop
+   2756 root      20   0   24.2g  47636  27656 S   3.0   0.6   0:05.19 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.50 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.36 irq/128+
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.40 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.63 irq/223+
+   3328 jonas     20   0  786324  85552  49832 S   1.0   1.1   0:02.08 gnome-s+
+
+top - 11:09:29 up 3 min,  1 user,  load average: 2.90, 1.40, 0.56
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.7 us, 12.7 sy,  0.0 ni, 66.7 id,  0.3 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4002.7 free,   1967.1 used,   1481.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5231.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9899.0m 652940  85568 D 112.6   8.6   2:16.08 mono_ki+
+    159 root       0 -20       0      0      0 R  35.9   0.0   0:14.19 kworker+
+    199 root       0 -20       0      0      0 I  12.6   0.0   0:20.87 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   8.7   3.6   0:13.53 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:05.24 Xorg
+     94 root       0 -20       0      0      0 I   3.9   0.0   0:12.10 kworker+
+   2419 root      20   0  323488  16244   6040 S   3.9   0.2   0:02.94 jtop
+   4081 jonas     20   0   12024   3440   2808 R   1.9   0.0   0:01.52 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.20 systemd
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.64 irq/223+
+    316 systemd+  20   0   24676  11284   7240 S   1.0   0.1   0:00.10 systemd+
+   3072 jonas     20   0  466044  10244   8428 S   1.0   0.1   0:00.05 gsd-sha+
+   4079 jonas     20   0    9544   3172   2792 S   1.0   0.0   0:00.10 bash
+   4080 jonas     20   0  248448  19596   7956 S   1.0   0.3   0:00.35 python3
+
+top - 11:09:30 up 3 min,  1 user,  load average: 2.90, 1.40, 0.56
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.2 us, 13.0 sy,  0.0 ni, 69.1 id,  0.3 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3994.9 free,   1971.7 used,   1484.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5226.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9899.9m 654260  85568 R 104.9   8.6   2:17.15 mono_ki+
+     94 root       0 -20       0      0      0 I  25.5   0.0   0:12.36 kworker+
+    159 root       0 -20       0      0      0 I  15.7   0.0   0:14.35 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:08.46 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   7.8   3.6   0:13.61 gnome-s+
+   2756 root      20   0   24.2g  47636  27656 S   4.9   0.6   0:05.29 Xorg
+   2419 root      20   0  323488  16244   6040 S   2.9   0.2   0:02.97 jtop
+   4081 jonas     20   0   12024   3440   2808 R   2.9   0.0   0:01.55 top
+    113 root     -51   0       0      0      0 S   1.0   0.0   0:00.16 irq/226+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.65 irq/223+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.43 nvgpu_c+
+   3123 jonas     20   0  511208  45804  24004 S   1.0   0.6   0:00.87 python3
+
+top - 11:09:31 up 3 min,  1 user,  load average: 2.91, 1.43, 0.58
+Tasks: 350 total,   2 running, 348 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.1 us, 11.7 sy,  0.0 ni, 62.2 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3994.9 free,   1971.7 used,   1484.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5226.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4149 jonas     20   0 9900.8m 656108  85568 R 143.7   8.6   2:18.63 mono_ki+
+    120 root       0 -20       0      0      0 I  37.9   0.0   0:08.85 kworker+
+    199 root       0 -20       0      0      0 I  12.6   0.0   0:21.00 kworker+
+   2891 jonas     20   0 4059716 275464 113040 S   5.8   3.6   0:13.67 gnome-s+
+   2419 root      20   0  323488  16244   6040 S   3.9   0.2   0:03.01 jtop
+   2756 root      20   0   24.2g  47636  27656 S   2.9   0.6   0:05.32 Xorg
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.21 systemd
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.37 irq/128+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.66 irq/223+
+    690 root      rt   0       0      0      0 S   1.0   0.0   0:00.18 sugov:4
+   2358 root      20   0       0      0      0 I   1.0   0.0   0:00.18 kworker+
+   4081 jonas     20   0   12024   3440   2808 R   1.0   0.0   0:01.56 top
+
+top - 11:09:32 up 3 min,  1 user,  load average: 2.91, 1.43, 0.58
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.7 us, 13.0 sy,  0.0 ni, 69.9 id,  1.0 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3994.9 free,   1971.7 used,   1484.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5226.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2891 jonas     20   0 4059716 276020 113360 R  44.1   3.6   0:14.12 gnome-s+
+     94 root       0 -20       0      0      0 I  26.5   0.0   0:12.63 kworker+
+    120 root       0 -20       0      0      0 I  12.7   0.0   0:08.98 kworker+
+   2756 root      20   0   24.2g  46160  25820 S   5.9   0.6   0:05.38 Xorg
+   2419 root      20   0  323488  16244   6040 S   3.9   0.2   0:03.05 jtop
+   3277 jonas     20   0  813384  48976  36688 S   3.9   0.6   0:00.78 gnome-t+
+    288 root      39  19       0      0      0 S   2.0   0.0   0:00.09 nvmap-bz
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.58 top
+    130 root     -51   0       0      0      0 S   1.0   0.0   0:00.38 irq/128+
+    142 root      20   0       0      0      0 I   1.0   0.0   0:00.16 kworker+
+   1051 root      20   0       0      0      0 S   1.0   0.0   0:00.44 nvgpu_c+
+   2746 jonas     20   0 1748768  24404  12860 S   1.0   0.3   0:00.80 pulseau+
+
+top - 11:09:33 up 3 min,  1 user,  load average: 2.91, 1.43, 0.58
+Tasks: 349 total,   2 running, 347 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.1 us,  4.2 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4551.2 free,   1411.9 used,   1487.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5788.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    159 root       0 -20       0      0      0 I  12.9   0.0   0:14.48 kworker+
+   2891 jonas     20   0 4059716 276020 113360 S   9.9   3.6   0:14.22 gnome-s+
+   2419 root      20   0  323488  16244   6040 S   3.0   0.2   0:03.08 jtop
+   3277 jonas     20   0  813384  49008  36720 S   3.0   0.6   0:00.81 gnome-t+
+   2756 root      20   0   24.2g  46160  25820 S   2.0   0.6   0:05.40 Xorg
+   4081 jonas     20   0   12024   3440   2808 R   2.0   0.0   0:01.60 top
+      1 root      20   0  170000  10576   7204 S   1.0   0.1   0:08.22 systemd
+    154 root      20   0       0      0      0 I   1.0   0.0   0:00.41 kworker+
+    288 root      39  19       0      0      0 S   1.0   0.0   0:00.10 nvmap-bz
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.67 irq/223+
+    689 root      rt   0       0      0      0 S   1.0   0.0   0:00.23 sugov:0
+   2411 root      20   0  396964  17276   5484 S   1.0   0.2   0:00.22 jtop
+   3240 jonas     20   0  508404  24676   4292 S   1.0   0.3   0:00.16 python3

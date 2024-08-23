@@ -1,0 +1,1887 @@
+top - 10:38:11 up 10 min,  1 user,  load average: 0.82, 0.49, 0.30
+Tasks: 330 total,   2 running, 328 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.7 us, 17.8 sy,  0.0 ni, 76.6 id,  0.9 wa,  0.9 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4671.9 free,   1472.4 used,   1306.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5741.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    198 root       0 -20       0      0      0 I  81.2   0.0   0:07.65 kworker+
+   4331 jonas     20   0   18964  10560   5528 R  18.8   0.1   0:00.05 python3
+   2909 jonas     20   0 4051460 276144 112560 S   6.2   3.6   0:09.94 gnome-s+
+   4298 jonas     20   0 1525496  99088  36576 S   6.2   1.3   0:43.26 ov2slam+
+   4330 jonas     20   0   12024   3328   2688 R   6.2   0.0   0:00.03 top
+
+top - 10:38:12 up 10 min,  1 user,  load average: 0.82, 0.49, 0.30
+Tasks: 333 total,   2 running, 331 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.1 us, 11.1 sy,  0.0 ni, 77.4 id,  3.0 wa,  1.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4671.9 free,   1472.4 used,   1306.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5741.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4331 jonas     20   0  248448  19696   7932 S  14.7   0.3   0:00.20 python3
+    217 root       0 -20       0      0      0 I  13.7   0.0   0:04.95 kworker+
+    157 root       0 -20       0      0      0 R  12.7   0.0   0:08.17 kworker+
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:07.78 kworker+
+   4298 jonas     20   0 1525496  99088  36576 S   8.8   1.3   0:43.35 ov2slam+
+   2424 root      20   0  249500  15856   6072 S   2.9   0.2   0:00.06 jtop
+   4386 jonas     20   0   58892  17360  12500 D   2.9   0.2   0:00.03 vulkani+
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.23 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.18 irq/223+
+    424 avahi     20   0    7184   3040   2712 S   1.0   0.0   0:00.14 avahi-d+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.09 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.04 top
+
+top - 10:38:13 up 10 min,  1 user,  load average: 0.82, 0.49, 0.30
+Tasks: 333 total,   2 running, 331 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  7.9 sy,  0.0 ni, 83.5 id,  4.6 wa,  1.3 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4671.9 free,   1472.4 used,   1306.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5741.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:07.91 kworker+
+   4298 jonas     20   0 1525496  99088  36576 S   9.8   1.3   0:43.45 ov2slam+
+     94 root       0 -20       0      0      0 R   4.9   0.0   0:09.79 kworker+
+   2424 root      20   0  249756  16064   6240 S   3.9   0.2   0:00.10 jtop
+   4398 jonas     20   0   17360   8532   5216 D   2.9   0.1   0:00.03 rosbag
+   2776 root      20   0   24.2g  45620  25748 S   2.0   0.6   0:03.09 Xorg
+    157 root       0 -20       0      0      0 I   1.0   0.0   0:08.18 kworker+
+    285 root      39  19       0      0      0 S   1.0   0.0   0:00.05 nvmap-bz
+   2909 jonas     20   0 4051460 276144 112560 S   1.0   3.6   0:09.95 gnome-s+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.05 top
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.21 python3
+
+top - 10:38:14 up 10 min,  1 user,  load average: 0.92, 0.52, 0.31
+Tasks: 333 total,   2 running, 331 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.3 us, 12.2 sy,  0.0 ni, 74.2 id,  1.8 wa,  1.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4600.0 free,   1511.3 used,   1339.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5702.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4398 jonas     20   0  273912  34840  13440 D  58.4   0.5   0:00.62 rosbag
+     94 root       0 -20       0      0      0 I  21.8   0.0   0:10.01 kworker+
+    198 root       0 -20       0      0      0 I  13.9   0.0   0:08.05 kworker+
+    157 root       0 -20       0      0      0 R   8.9   0.0   0:08.27 kworker+
+   4298 jonas     20   0 1525496  99088  36576 S   8.9   1.3   0:43.54 ov2slam+
+   2424 root      20   0  249756  16080   6240 S   4.0   0.2   0:00.14 jtop
+   4214 jonas     20   0  275268  18612   9460 S   2.0   0.2   0:00.12 rosout
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.07 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:07.95 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.10 ksoftir+
+   1289 root      20   0 2081944  44456  24924 S   1.0   0.6   0:00.49 contain+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.10 jtop
+   2909 jonas     20   0 4051460 276144 112560 S   1.0   3.6   0:09.96 gnome-s+
+   4171 jonas     20   0  724400  46724  15580 S   1.0   0.6   0:00.91 rosmast+
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.22 python3
+
+top - 10:38:15 up 10 min,  1 user,  load average: 0.92, 0.52, 0.31
+Tasks: 334 total,   2 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.5 us, 14.1 sy,  0.0 ni, 79.0 id,  1.2 wa,  1.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4600.0 free,   1511.3 used,   1339.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5702.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    157 root       0 -20       0      0      0 I  55.9   0.0   0:08.84 kworker+
+   4398 jonas     20   0  282376  46016  15752 S  20.6   0.6   0:00.83 rosbag
+   4298 jonas     20   0 1525496  99088  36576 S   9.8   1.3   0:43.64 ov2slam+
+   4441 jonas     20   0  367936  27800  14908 R   6.9   0.4   0:00.07 play
+   2424 root      20   0  249756  16080   6240 S   2.9   0.2   0:00.17 jtop
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.10 Xorg
+   2909 jonas     20   0 4051460 276144 112560 S   1.0   3.6   0:09.97 gnome-s+
+   4107 jonas     20   0  813576  49508  36792 S   1.0   0.6   0:01.30 gnome-t+
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.92 rosmast+
+   4256 root      20   0       0      0      0 I   1.0   0.0   0:00.03 kworker+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.08 top
+
+top - 10:38:16 up 10 min,  1 user,  load average: 0.92, 0.52, 0.31
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.2 us,  7.7 sy,  0.0 ni, 85.7 id,  1.7 wa,  1.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4600.0 free,   1511.3 used,   1339.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5702.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2179304 126984  40232 S  29.4   1.7   0:43.94 ov2slam+
+    157 root       0 -20       0      0      0 I  14.7   0.0   0:08.99 kworker+
+   4441 jonas     20   0  369980  29108  14972 S   3.9   0.4   0:00.11 play
+   2424 root      20   0  249756  16080   6240 S   2.9   0.2   0:00.20 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.10 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:07.96 systemd
+     29 root      20   0       0      0      0 S   1.0   0.0   0:00.05 ksoftir+
+     94 root       0 -20       0      0      0 I   1.0   0.0   0:10.02 kworker+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.34 kworker+
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.34 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.16 roscore
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.93 rosmast+
+   4329 jonas     20   0    9548   3100   2720 S   1.0   0.0   0:00.01 bash
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.23 python3
+
+top - 10:38:17 up 10 min,  1 user,  load average: 0.92, 0.52, 0.31
+Tasks: 334 total,   2 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.4 us, 13.6 sy,  0.0 ni, 74.0 id,  0.5 wa,  1.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4525.6 free,   1558.5 used,   1366.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5654.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2245296 132436  40980 S  88.1   1.7   0:44.83 ov2slam+
+    198 root       0 -20       0      0      0 I  12.9   0.0   0:08.18 kworker+
+    217 root       0 -20       0      0      0 I  12.9   0.0   0:05.08 kworker+
+     94 root       0 -20       0      0      0 R   5.9   0.0   0:10.08 kworker+
+   2424 root      20   0  249756  16080   6240 S   4.0   0.2   0:00.24 jtop
+   4441 jonas     20   0  369980  29148  14972 S   3.0   0.4   0:00.14 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.12 top
+      7 root      20   0       0      0      0 I   1.0   0.0   0:00.28 kworker+
+     19 root      20   0       0      0      0 S   1.0   0.0   0:00.04 ksoftir+
+    260 root      19  -1   45456  12316   8804 S   1.0   0.2   0:00.74 systemd+
+    437 message+  20   0    9660   5808   3432 S   1.0   0.1   0:01.39 dbus-da+
+    640 root      rt   0       0      0      0 S   1.0   0.0   0:00.19 sugov:0
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.54 nvgpu_c+
+   2371 gdm       20   0 3952956 163132  84992 S   1.0   2.1   0:04.96 gnome-s+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.11 Xorg
+   2909 jonas     20   0 4051460 276144 112560 S   1.0   3.6   0:09.98 gnome-s+
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.94 rosmast+
+
+top - 10:38:18 up 10 min,  1 user,  load average: 0.92, 0.52, 0.31
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us, 14.3 sy,  0.0 ni, 71.7 id,  0.0 wa,  1.2 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4525.6 free,   1558.5 used,   1366.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5654.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2245296 134816  40980 S  93.1   1.8   0:45.78 ov2slam+
+    157 root       0 -20       0      0      0 I  12.7   0.0   0:09.12 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:05.21 kworker+
+     94 root       0 -20       0      0      0 I   6.9   0.0   0:10.15 kworker+
+   4107 jonas     20   0  813576  49508  36792 S   4.9   0.6   0:01.35 gnome-t+
+   2424 root      20   0  249756  16084   6240 S   3.9   0.2   0:00.28 jtop
+   2776 root      20   0   24.2g  45620  25748 S   3.9   0.6   0:03.15 Xorg
+   2909 jonas     20   0 4051460 276144 112560 S   3.9   3.6   0:10.02 gnome-s+
+   4441 jonas     20   0  369980  29188  14972 S   2.9   0.4   0:00.17 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.14 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:07.97 systemd
+    129 root     -51   0       0      0      0 S   1.0   0.0   0:00.16 irq/128+
+    641 root      rt   0       0      0      0 S   1.0   0.0   0:00.11 sugov:4
+   1289 root      20   0 2081944  44456  24924 S   1.0   0.6   0:00.50 contain+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.11 jtop
+   2772 jonas     20   0    9004   5164   3440 S   1.0   0.1   0:00.50 dbus-da+
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.71 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.17 roscore
+
+top - 10:38:19 up 10 min,  1 user,  load average: 1.56, 0.66, 0.36
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.6 us, 66.3 sy,  0.0 ni,  3.9 id,  1.3 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4525.6 free,   1558.5 used,   1366.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5654.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2286724 148784  41516 S 517.6   2.0   0:51.06 ov2slam+
+    217 root       0 -20       0      0      0 I  13.7   0.0   0:05.35 kworker+
+    157 root       0 -20       0      0      0 I  12.7   0.0   0:09.25 kworker+
+   2424 root      20   0  323488  16128   6240 S   3.9   0.2   0:00.32 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.16 top
+   4441 jonas     20   0  369980  29100  14972 S   2.0   0.4   0:00.19 play
+     24 root      20   0       0      0      0 S   1.0   0.0   0:00.04 ksoftir+
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.30 kworker+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.35 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.16 Xorg
+   2909 jonas     20   0 4051460 276144 112560 S   1.0   3.6   0:10.03 gnome-s+
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.35 python3
+   4107 jonas     20   0  813576  49508  36792 S   1.0   0.6   0:01.36 gnome-t+
+   4549 jonas     20   0   11244   1244   1044 R   1.0   0.0   0:00.01 ps
+
+top - 10:38:20 up 10 min,  1 user,  load average: 1.56, 0.66, 0.36
+Tasks: 336 total,   2 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.7 us, 63.3 sy,  0.0 ni,  6.0 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4480.2 free,   1577.2 used,   1393.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5635.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2352260 149580  41516 S 502.0   2.0   0:56.18 ov2slam+
+    157 root       0 -20       0      0      0 I  13.7   0.0   0:09.39 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:10.28 kworker+
+    119 root       0 -20       0      0      0 R  11.8   0.0   0:03.66 kworker+
+   2424 root      20   0  323488  16132   6240 S   4.9   0.2   0:00.37 jtop
+   4441 jonas     20   0  369980  29172  14972 S   3.9   0.4   0:00.23 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:07.98 systemd
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.24 kworker+
+    742 root      20   0    2472   1620   1428 S   1.0   0.0   0:00.20 nvfanco+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.17 Xorg
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.95 rosmast+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.17 top
+
+top - 10:38:21 up 10 min,  1 user,  load average: 1.56, 0.66, 0.36
+Tasks: 337 total,   2 running, 335 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.7 us, 67.0 sy,  0.0 ni,  4.2 id,  0.2 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4480.2 free,   1577.2 used,   1393.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5635.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2352260 149844  41516 S 521.4   2.0   1:01.55 ov2slam+
+    157 root       0 -20       0      0      0 R  14.6   0.0   0:09.54 kworker+
+    249 root       0 -20       0      0      0 I  12.6   0.0   0:06.61 kworker+
+   2424 root      20   0  323488  16136   6240 S   2.9   0.2   0:00.40 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.19 top
+   4441 jonas     20   0  370436  29648  14972 D   1.9   0.4   0:00.25 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:07.99 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.11 ksoftir+
+     88 root      20   0       0      0      0 I   1.0   0.0   0:00.40 kworker+
+    119 root       0 -20       0      0      0 I   1.0   0.0   0:03.67 kworker+
+   2909 jonas     20   0 4051460 276144 112560 S   1.0   3.6   0:10.04 gnome-s+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.18 roscore
+
+top - 10:38:22 up 10 min,  1 user,  load average: 1.56, 0.66, 0.36
+Tasks: 336 total,   2 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.7 us, 66.3 sy,  0.0 ni,  5.5 id,  0.7 wa,  0.6 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4480.2 free,   1577.2 used,   1393.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5635.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 150904  41516 S 492.2   2.0   1:07.21 ov2slam+
+    157 root       0 -20       0      0      0 I  44.3   0.0   0:10.05 kworker+
+    119 root       0 -20       0      0      0 R   2.6   0.0   0:03.70 kworker+
+   2424 root      20   0  323488  16136   6240 S   2.6   0.2   0:00.43 jtop
+   4441 jonas     20   0  369980  29116  14972 S   2.6   0.4   0:00.28 play
+   2416 root      20   0  396964  17372   5676 S   0.9   0.2   0:00.12 jtop
+   2776 root      20   0   24.2g  45620  25748 S   0.9   0.6   0:03.18 Xorg
+   2909 jonas     20   0 4051460 276144 112560 S   0.9   3.6   0:10.05 gnome-s+
+   4107 jonas     20   0  813576  49508  36792 S   0.9   0.6   0:01.37 gnome-t+
+   4140 jonas     20   0  473608  47132  15536 S   0.9   0.6   0:01.19 roscore
+   4330 jonas     20   0   12024   3328   2688 R   0.9   0.0   0:00.20 top
+   4331 jonas     20   0  248448  19608   7932 S   0.9   0.3   0:00.24 python3
+
+top - 10:38:23 up 10 min,  1 user,  load average: 1.56, 0.66, 0.36
+Tasks: 336 total,   1 running, 335 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.9 us, 63.0 sy,  0.0 ni, 10.2 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4450.5 free,   1581.2 used,   1419.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5631.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 151436  41516 S 478.4   2.0   1:12.09 ov2slam+
+    198 root       0 -20       0      0      0 I  13.7   0.0   0:08.32 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:06.74 kworker+
+    119 root       0 -20       0      0      0 I  10.8   0.0   0:03.81 kworker+
+   2424 root      20   0  323488  16136   6240 S   3.9   0.2   0:00.47 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:00.23 top
+   4441 jonas     20   0  369980  29140  14972 S   2.9   0.4   0:00.31 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.00 systemd
+     44 root      20   0       0      0      0 I   1.0   0.0   0:00.17 kworker+
+     56 root      39  19       0      0      0 S   1.0   0.0   0:00.19 khugepa+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.19 irq/223+
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.55 nvgpu_c+
+   2909 jonas     20   0 4051460 276148 112560 S   1.0   3.6   0:10.06 gnome-s+
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.13 rosout
+
+top - 10:38:24 up 10 min,  1 user,  load average: 2.08, 0.78, 0.40
+Tasks: 337 total,   1 running, 336 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.6 us, 69.6 sy,  0.0 ni,  5.8 id,  0.2 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4450.5 free,   1581.2 used,   1419.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5631.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 151436  41516 S 502.9   2.0   1:17.22 ov2slam+
+    217 root       0 -20       0      0      0 I  25.5   0.0   0:05.61 kworker+
+     94 root       0 -20       0      0      0 I  13.7   0.0   0:10.42 kworker+
+   2424 root      20   0  323488  16136   6240 S   2.9   0.2   0:00.50 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.25 top
+   4441 jonas     20   0  369980  29344  14972 S   2.0   0.4   0:00.33 play
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.36 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.19 Xorg
+   2909 jonas     20   0 4051460 276148 112560 S   1.0   3.6   0:10.07 gnome-s+
+
+top - 10:38:25 up 10 min,  1 user,  load average: 2.08, 0.78, 0.40
+Tasks: 337 total,   1 running, 336 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.3 us, 66.8 sy,  0.0 ni,  6.9 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4450.5 free,   1581.2 used,   1419.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5631.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 153280  41516 S 498.0   2.0   1:22.30 ov2slam+
+    217 root       0 -20       0      0      0 I  25.5   0.0   0:05.87 kworker+
+    157 root       0 -20       0      0      0 I  12.7   0.0   0:10.18 kworker+
+   2424 root      20   0  323488  16140   6240 S   2.9   0.2   0:00.53 jtop
+   4441 jonas     20   0  369980  29136  14972 S   2.9   0.4   0:00.36 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.01 systemd
+      7 root      20   0       0      0      0 I   1.0   0.0   0:00.29 kworker+
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.72 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.20 roscore
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.96 rosmast+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.26 top
+
+top - 10:38:26 up 10 min,  1 user,  load average: 2.08, 0.78, 0.40
+Tasks: 337 total,   2 running, 335 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.5 us, 67.5 sy,  0.0 ni,  6.2 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4424.3 free,   1582.3 used,   1444.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5630.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 153544  41516 S 504.9   2.0   1:27.45 ov2slam+
+    157 root       0 -20       0      0      0 R  19.6   0.0   0:10.38 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:06.00 kworker+
+   2424 root      20   0  323488  16140   6240 S   2.9   0.2   0:00.56 jtop
+   4441 jonas     20   0  369980  29200  14972 S   2.9   0.4   0:00.39 play
+   2909 jonas     20   0 4051460 276192 112564 S   2.0   3.6   0:10.09 gnome-s+
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.28 top
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.20 Xorg
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.14 rosout
+
+top - 10:38:27 up 10 min,  1 user,  load average: 2.08, 0.78, 0.40
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.4 us, 64.3 sy,  0.0 ni,  7.5 id,  0.0 wa,  0.7 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4424.3 free,   1582.3 used,   1444.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5630.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 154336  41516 S 491.2   2.0   1:33.05 ov2slam+
+    157 root       0 -20       0      0      0 I  41.2   0.0   0:10.85 kworker+
+   2909 jonas     20   0 4051460 276148 112564 S   4.4   3.6   0:10.14 gnome-s+
+   2424 root      20   0  323488  16140   6240 S   3.5   0.2   0:00.60 jtop
+   2371 gdm       20   0 3952956 163132  84992 S   2.6   2.1   0:04.99 gnome-s+
+   4441 jonas     20   0  370436  29520  14972 S   2.6   0.4   0:00.42 play
+   4330 jonas     20   0   12024   3328   2688 R   1.8   0.0   0:00.30 top
+   4107 jonas     20   0  813576  49508  36792 S   0.9   0.6   0:01.38 gnome-t+
+   4764 jonas     20   0   11244   1256   1052 R   0.9   0.0   0:00.01 ps
+
+top - 10:38:28 up 10 min,  1 user,  load average: 2.08, 0.78, 0.40
+Tasks: 334 total,   2 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.0 us, 63.5 sy,  0.0 ni, 10.7 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4424.3 free,   1582.3 used,   1444.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5630.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 154872  41516 S 478.6   2.0   1:37.98 ov2slam+
+    119 root       0 -20       0      0      0 R  32.0   0.0   0:04.14 kworker+
+   2424 root      20   0  323488  16140   6240 S   2.9   0.2   0:00.63 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.32 top
+   4441 jonas     20   0  370436  29636  14972 D   1.9   0.4   0:00.44 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.02 systemd
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.13 jtop
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.36 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.21 roscore
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.97 rosmast+
+   4329 jonas     20   0    9548   3100   2720 S   1.0   0.0   0:00.02 bash
+
+top - 10:38:29 up 10 min,  1 user,  load average: 2.63, 0.92, 0.44
+Tasks: 334 total,   2 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.3 us, 63.6 sy,  0.0 ni,  6.2 id,  0.2 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4390.9 free,   1586.7 used,   1473.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5626.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 156456  41516 S 507.8   2.1   1:43.16 ov2slam+
+    119 root       0 -20       0      0      0 R  38.2   0.0   0:04.53 kworker+
+   2424 root      20   0  323488  16140   6240 S   3.9   0.2   0:00.67 jtop
+   4441 jonas     20   0  369980  29352  14972 S   2.9   0.4   0:00.47 play
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.25 kworker+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.37 kworker+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.33 top
+
+top - 10:38:30 up 10 min,  1 user,  load average: 2.63, 0.92, 0.44
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.2 us, 67.0 sy,  0.0 ni,  4.7 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4390.9 free,   1586.7 used,   1473.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5626.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 158308  41516 S 496.2   2.1   1:48.32 ov2slam+
+    249 root       0 -20       0      0      0 I  38.5   0.0   0:07.14 kworker+
+    119 root       0 -20       0      0      0 I   6.7   0.0   0:04.60 kworker+
+   2424 root      20   0  323488  16140   6240 S   2.9   0.2   0:00.70 jtop
+   4441 jonas     20   0  370436  29664  14972 S   2.9   0.4   0:00.50 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.35 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.03 systemd
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.22 roscore
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.98 rosmast+
+
+top - 10:38:32 up 10 min,  1 user,  load average: 2.63, 0.92, 0.44
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.7 us, 66.6 sy,  0.0 ni,  5.8 id,  0.2 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4390.9 free,   1586.7 used,   1473.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5626.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 159356  41516 S 520.6   2.1   1:53.63 ov2slam+
+    119 root       0 -20       0      0      0 I  12.7   0.0   0:04.73 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:07.27 kworker+
+   2424 root      20   0  323488  16144   6240 S   3.9   0.2   0:00.74 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.37 top
+   4441 jonas     20   0  370436  29456  14972 S   2.0   0.4   0:00.52 play
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.31 kworker+
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.56 nvgpu_c+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.21 Xorg
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.25 python3
+
+top - 10:38:33 up 10 min,  1 user,  load average: 2.63, 0.92, 0.44
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.8 us, 66.7 sy,  0.0 ni,  6.4 id,  0.3 wa,  0.7 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4361.6 free,   1589.9 used,   1499.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5623.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 160412  41516 S 488.0   2.1   1:59.34 ov2slam+
+    119 root       0 -20       0      0      0 I  23.1   0.0   0:05.00 kworker+
+    217 root       0 -20       0      0      0 I  11.1   0.0   0:06.13 kworker+
+    249 root       0 -20       0      0      0 I  11.1   0.0   0:07.40 kworker+
+   2424 root      20   0  323488  16144   6240 S   2.6   0.2   0:00.77 jtop
+   4441 jonas     20   0  369980  29156  14972 S   2.6   0.4   0:00.55 play
+      1 root      20   0  170012  10456   7072 S   0.9   0.1   0:08.04 systemd
+   2416 root      20   0  396964  17372   5676 S   0.9   0.2   0:00.14 jtop
+   4140 jonas     20   0  473608  47132  15536 S   0.9   0.6   0:01.23 roscore
+   4330 jonas     20   0   12024   3328   2688 R   0.9   0.0   0:00.38 top
+
+top - 10:38:34 up 10 min,  1 user,  load average: 2.82, 0.99, 0.47
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.6 us, 67.5 sy,  0.0 ni,  3.0 id,  0.2 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4361.6 free,   1589.9 used,   1499.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5623.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 161728  41516 S 524.8   2.1   2:04.64 ov2slam+
+    249 root       0 -20       0      0      0 D  26.7   0.0   0:07.67 kworker+
+    119 root       0 -20       0      0      0 I  12.9   0.0   0:05.13 kworker+
+   2424 root      20   0  323488  16144   6240 S   3.0   0.2   0:00.80 jtop
+   4441 jonas     20   0  371348  30592  14972 D   3.0   0.4   0:00.58 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.40 top
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.38 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.22 Xorg
+
+top - 10:38:35 up 10 min,  1 user,  load average: 2.82, 0.99, 0.47
+Tasks: 335 total,   4 running, 331 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.0 us, 64.2 sy,  0.0 ni,  5.7 id,  0.3 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4361.6 free,   1589.9 used,   1499.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5623.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 162780  41516 S 510.8   2.1   2:09.85 ov2slam+
+    157 root       0 -20       0      0      0 I  25.5   0.0   0:11.11 kworker+
+    198 root       0 -20       0      0      0 R   3.9   0.0   0:08.36 kworker+
+   2424 root      20   0  323488  16144   6240 S   2.9   0.2   0:00.83 jtop
+   4441 jonas     20   0  370892  29900  14972 R   2.9   0.4   0:00.61 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.05 systemd
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.41 top
+
+top - 10:38:36 up 10 min,  1 user,  load average: 2.82, 0.99, 0.47
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.3 us, 68.1 sy,  0.0 ni,  3.8 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4333.9 free,   1591.4 used,   1525.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5621.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 163308  41516 S 520.6   2.1   2:15.16 ov2slam+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:10.55 kworker+
+    119 root       0 -20       0      0      0 I  12.7   0.0   0:05.26 kworker+
+    198 root       0 -20       0      0      0 I   8.8   0.0   0:08.45 kworker+
+   2424 root      20   0  323488  16148   6240 S   2.9   0.2   0:00.86 jtop
+   4441 jonas     20   0  369980  29172  14972 S   2.9   0.4   0:00.64 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.43 top
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.24 roscore
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:00.99 rosmast+
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.15 rosout
+
+top - 10:38:37 up 10 min,  1 user,  load average: 2.82, 0.99, 0.47
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.6 us, 67.0 sy,  0.0 ni,  4.4 id,  0.3 wa,  0.6 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4333.9 free,   1591.4 used,   1525.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5621.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 164628  41516 S 512.6   2.2   2:20.44 ov2slam+
+    217 root       0 -20       0      0      0 I  26.2   0.0   0:06.40 kworker+
+    198 root       0 -20       0      0      0 I  12.6   0.0   0:08.58 kworker+
+   2424 root      20   0  323488  16148   6240 S   2.9   0.2   0:00.89 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.45 top
+   4441 jonas     20   0  369980  29256  14972 S   1.9   0.4   0:00.66 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.06 systemd
+
+top - 10:38:38 up 10 min,  1 user,  load average: 2.82, 0.99, 0.47
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.8 us, 66.9 sy,  0.0 ni,  2.6 id,  0.0 wa,  0.6 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4333.9 free,   1591.4 used,   1525.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5621.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 165416  41516 S 517.2   2.2   2:26.44 ov2slam+
+     94 root       0 -20       0      0      0 I  23.3   0.0   0:10.82 kworker+
+    217 root       0 -20       0      0      0 I  22.4   0.0   0:06.66 kworker+
+   2424 root      20   0  323488  16148   6240 S   3.4   0.2   0:00.93 jtop
+   4441 jonas     20   0  369980  29204  14972 S   3.4   0.4   0:00.70 play
+   4330 jonas     20   0   12024   3328   2688 R   1.7   0.0   0:00.47 top
+     93 root      20   0       0      0      0 I   0.9   0.0   0:00.32 kworker+
+    115 root      20   0       0      0      0 I   0.9   0.0   0:00.26 kworker+
+   2416 root      20   0  396964  17372   5676 S   0.9   0.2   0:00.15 jtop
+   4140 jonas     20   0  473608  47132  15536 S   0.9   0.6   0:01.25 roscore
+   4329 jonas     20   0    9548   3100   2720 S   0.9   0.0   0:00.03 bash
+
+top - 10:38:39 up 10 min,  1 user,  load average: 3.88, 1.24, 0.55
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.0 us, 67.3 sy,  0.0 ni,  5.7 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4300.9 free,   1594.2 used,   1555.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5618.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 167256  41516 S 505.9   2.2   2:31.60 ov2slam+
+    119 root       0 -20       0      0      0 I  12.7   0.0   0:05.39 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:06.79 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:07.80 kworker+
+   2424 root      20   0  323488  16148   6240 S   2.0   0.2   0:00.95 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.49 top
+   4441 jonas     20   0  369980  29260  14972 S   2.0   0.4   0:00.72 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.07 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.39 kworker+
+   1289 root      20   0 2081944  44456  24924 S   1.0   0.6   0:00.51 contain+
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.73 python3
+
+top - 10:38:40 up 10 min,  1 user,  load average: 3.88, 1.24, 0.55
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.2 us, 64.9 sy,  0.0 ni,  5.0 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4300.9 free,   1594.2 used,   1555.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5618.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 168136  41612 S 520.6   2.2   2:36.91 ov2slam+
+    249 root       0 -20       0      0      0 I  26.5   0.0   0:08.07 kworker+
+    119 root       0 -20       0      0      0 R  10.8   0.0   0:05.50 kworker+
+   2424 root      20   0  323488  16148   6240 S   4.9   0.2   0:01.00 jtop
+   4441 jonas     20   0  369980  29340  14972 S   2.9   0.4   0:00.75 play
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.57 nvgpu_c+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.23 Xorg
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.00 rosmast+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.50 top
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.26 python3
+
+top - 10:38:41 up 10 min,  1 user,  load average: 3.88, 1.24, 0.55
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.9 us, 59.5 sy,  0.0 ni,  5.4 id,  0.3 wa,  0.5 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4300.9 free,   1594.2 used,   1555.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5618.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 170304  41676 S 499.0   2.2   2:42.15 ov2slam+
+    119 root       0 -20       0      0      0 R  17.1   0.0   0:05.68 kworker+
+    249 root       0 -20       0      0      0 I  12.4   0.0   0:08.20 kworker+
+   2424 root      20   0  323488  16152   6240 S   4.8   0.2   0:01.05 jtop
+   4441 jonas     20   0  370436  29552  14972 D   2.9   0.4   0:00.78 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.52 top
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.16 rosout
+
+top - 10:38:42 up 10 min,  1 user,  load average: 3.88, 1.24, 0.55
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.3 us, 64.9 sy,  0.0 ni,  6.8 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4270.6 free,   1599.3 used,   1581.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5613.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 171088  41676 S 503.9   2.2   2:47.29 ov2slam+
+    119 root       0 -20       0      0      0 I  23.5   0.0   0:05.92 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:08.33 kworker+
+   2424 root      20   0  323488  16152   6240 S   3.9   0.2   0:01.09 jtop
+   4441 jonas     20   0  369980  29252  14972 S   2.9   0.4   0:00.81 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.54 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.08 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.40 kworker+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.26 roscore
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.17 rosout
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.27 python3
+
+top - 10:38:43 up 11 min,  1 user,  load average: 3.88, 1.24, 0.55
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.1 us, 61.2 sy,  0.0 ni,  4.3 id,  0.6 wa,  0.6 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4270.6 free,   1599.3 used,   1581.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5613.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 173180  41676 S 498.3   2.3   2:53.02 ov2slam+
+     94 root       0 -20       0      0      0 I  22.6   0.0   0:11.08 kworker+
+    217 root       0 -20       0      0      0 R  13.9   0.0   0:06.95 kworker+
+    157 root       0 -20       0      0      0 I  12.2   0.0   0:11.25 kworker+
+   2424 root      20   0  323488  16152   6240 S   2.6   0.2   0:01.12 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.7   0.0   0:00.56 top
+   4441 jonas     20   0  369980  29316  14972 S   1.7   0.4   0:00.83 play
+   2416 root      20   0  396964  17372   5676 S   0.9   0.2   0:00.16 jtop
+   4171 jonas     20   0  798132  46724  15580 S   0.9   0.6   0:01.01 rosmast+
+   4329 jonas     20   0    9548   3100   2720 S   0.9   0.0   0:00.04 bash
+
+top - 10:38:44 up 11 min,  1 user,  load average: 4.21, 1.35, 0.59
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.5 us, 62.0 sy,  0.0 ni,  4.4 id,  0.2 wa,  0.7 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4270.6 free,   1599.3 used,   1581.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5613.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 174956  41676 S 500.0   2.3   2:58.17 ov2slam+
+     94 root       0 -20       0      0      0 I  26.2   0.0   0:11.35 kworker+
+    157 root       0 -20       0      0      0 I  12.6   0.0   0:11.38 kworker+
+    217 root       0 -20       0      0      0 I   9.7   0.0   0:07.05 kworker+
+   2424 root      20   0  323488  16152   6240 S   2.9   0.2   0:01.15 jtop
+   4441 jonas     20   0  369980  29256  14972 S   2.9   0.4   0:00.86 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.09 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.33 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.24 Xorg
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.27 roscore
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.57 top
+
+top - 10:38:45 up 11 min,  1 user,  load average: 4.21, 1.35, 0.59
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.6 us, 65.7 sy,  0.0 ni,  2.9 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4236.5 free,   1604.6 used,   1609.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5608.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 176264  41676 S 518.6   2.3   3:03.46 ov2slam+
+    217 root       0 -20       0      0      0 I  13.7   0.0   0:07.19 kworker+
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:08.71 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:08.46 kworker+
+   2424 root      20   0  323488  16152   6240 S   4.9   0.2   0:01.20 jtop
+   4441 jonas     20   0  369980  29328  14972 S   3.9   0.4   0:00.90 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.59 top
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.27 kworker+
+   3361 root      20   0  397876  31380  26072 S   1.0   0.4   0:00.92 fwupd
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.02 rosmast+
+
+top - 10:38:46 up 11 min,  1 user,  load average: 4.21, 1.35, 0.59
+Tasks: 335 total,   3 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.5 us, 59.0 sy,  0.0 ni,  5.7 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4236.5 free,   1604.6 used,   1609.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5608.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 179936  41740 S 497.1   2.4   3:08.53 ov2slam+
+    119 root       0 -20       0      0      0 I  26.5   0.0   0:06.19 kworker+
+    249 root       0 -20       0      0      0 R  22.5   0.0   0:08.69 kworker+
+   2424 root      20   0  323488  16152   6240 S   2.0   0.2   0:01.22 jtop
+   4441 jonas     20   0  369980  29128  14972 R   2.0   0.4   0:00.92 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.10 systemd
+     13 root      20   0       0      0      0 I   1.0   0.0   0:00.14 rcu_pre+
+   1059 root      20   0       0      0      0 S   1.0   0.0   0:00.07 nvgpu_n+
+   2610 gdm       20   0  466048  10036   8212 S   1.0   0.1   0:00.10 gsd-sha+
+   3092 jonas     20   0  466056  10180   8292 S   1.0   0.1   0:00.07 gsd-sha+
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.37 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.28 roscore
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.60 top
+
+top - 10:38:47 up 11 min,  1 user,  load average: 4.21, 1.35, 0.59
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.5 us, 63.2 sy,  0.0 ni,  4.6 id,  0.2 wa,  0.5 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4236.5 free,   1604.6 used,   1609.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5608.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 180660  41740 S 520.6   2.4   3:13.84 ov2slam+
+     94 root       0 -20       0      0      0 I  25.5   0.0   0:11.61 kworker+
+    249 root       0 -20       0      0      0 I   3.9   0.0   0:08.73 kworker+
+   2424 root      20   0  323488  16152   6240 S   3.9   0.2   0:01.26 jtop
+   4441 jonas     20   0  369980  29332  14972 S   2.9   0.4   0:00.95 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.62 top
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.41 kworker+
+    933 root      20   0       0      0      0 S   1.0   0.0   0:00.31 RTW_CMD+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.17 jtop
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.38 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.29 roscore
+
+top - 10:38:48 up 11 min,  1 user,  load average: 4.21, 1.35, 0.59
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.0 us, 62.6 sy,  0.0 ni,  5.1 id,  0.3 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4209.4 free,   1609.7 used,   1631.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5603.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 182464  41740 S 496.1   2.4   3:18.90 ov2slam+
+     94 root       0 -20       0      0      0 I  26.5   0.0   0:11.88 kworker+
+    198 root       0 -20       0      0      0 I  13.7   0.0   0:08.85 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:07.32 kworker+
+   2424 root      20   0  323488  16156   6240 S   2.9   0.2   0:01.29 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.64 top
+   4441 jonas     20   0  369980  29164  14972 S   2.0   0.4   0:00.97 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.11 systemd
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.58 nvgpu_c+
+
+top - 10:38:49 up 11 min,  1 user,  load average: 4.75, 1.51, 0.65
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.0 us, 63.2 sy,  0.0 ni,  3.4 id,  0.5 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4209.4 free,   1609.7 used,   1631.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5603.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 183520  41740 S 515.7   2.4   3:24.16 ov2slam+
+    157 root       0 -20       0      0      0 I  26.5   0.0   0:11.65 kworker+
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:08.98 kworker+
+   2424 root      20   0  323488  16156   6240 S   2.9   0.2   0:01.32 jtop
+   4441 jonas     20   0  370436  29652  14972 S   2.9   0.4   0:01.00 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.66 top
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.25 Xorg
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.30 roscore
+
+top - 10:38:50 up 11 min,  1 user,  load average: 4.75, 1.51, 0.65
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.2 us, 63.9 sy,  0.0 ni,  4.1 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4209.4 free,   1609.7 used,   1631.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5603.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 184580  41740 S 524.5   2.4   3:29.51 ov2slam+
+    217 root       0 -20       0      0      0 D  25.5   0.0   0:07.58 kworker+
+   2424 root      20   0  323488  16156   6240 S   2.9   0.2   0:01.35 jtop
+   4441 jonas     20   0  370436  29600  14972 S   2.9   0.4   0:01.03 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.12 systemd
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.34 kworker+
+    742 root      20   0    2472   1620   1428 S   1.0   0.0   0:00.21 nvfanco+
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.03 rosmast+
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.18 rosout
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.67 top
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.28 python3
+
+top - 10:38:51 up 11 min,  1 user,  load average: 4.75, 1.51, 0.65
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.4 us, 63.6 sy,  0.0 ni,  4.7 id,  0.3 wa,  0.7 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4175.4 free,   1613.9 used,   1661.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5599.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 186152  41740 S 512.7   2.4   3:34.74 ov2slam+
+    119 root       0 -20       0      0      0 I  25.5   0.0   0:06.45 kworker+
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:09.11 kworker+
+   2424 root      20   0  323488  16160   6240 S   3.9   0.2   0:01.39 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.69 top
+   4441 jonas     20   0  369980  29152  14972 S   2.0   0.4   0:01.05 play
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.42 kworker+
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.29 python3
+
+top - 10:38:52 up 11 min,  1 user,  load average: 4.75, 1.51, 0.65
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.1 us, 63.0 sy,  0.0 ni,  4.1 id,  0.2 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4175.4 free,   1613.9 used,   1661.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5599.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 187192  41740 S 527.5   2.5   3:40.12 ov2slam+
+    119 root       0 -20       0      0      0 I  12.7   0.0   0:06.58 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:07.71 kworker+
+   4441 jonas     20   0  370436  29472  14972 S   2.9   0.4   0:01.08 play
+   2424 root      20   0  323488  16160   6240 S   2.0   0.2   0:01.41 jtop
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.13 systemd
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.18 jtop
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.26 Xorg
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.31 roscore
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.70 top
+
+top - 10:38:53 up 11 min,  1 user,  load average: 4.75, 1.51, 0.65
+Tasks: 335 total,   3 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.9 us, 62.7 sy,  0.0 ni,  2.8 id,  0.0 wa,  0.6 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4175.4 free,   1613.9 used,   1661.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5599.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 189240  41740 S 529.4   2.5   3:45.52 ov2slam+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:12.01 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:08.86 kworker+
+    217 root       0 -20       0      0      0 R   9.8   0.0   0:07.81 kworker+
+   2424 root      20   0  323488  16160   6240 S   3.9   0.2   0:01.45 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:00.73 top
+   4441 jonas     20   0  370436  29272  14972 R   2.9   0.4   0:01.11 play
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.04 rosmast+
+
+top - 10:38:54 up 11 min,  1 user,  load average: 5.33, 1.68, 0.71
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.1 us, 61.7 sy,  0.0 ni,  3.3 id,  0.0 wa,  0.6 hi,  0.3 si,  0.0 st
+MiB Mem :   7450.9 total,   4145.6 free,   1617.8 used,   1687.4 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5595.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 190488  41740 S 541.0   2.5   3:51.20 ov2slam+
+    157 root       0 -20       0      0      0 I  12.4   0.0   0:11.78 kworker+
+    198 root       0 -20       0      0      0 D  12.4   0.0   0:09.24 kworker+
+    217 root       0 -20       0      0      0 I   3.8   0.0   0:07.85 kworker+
+   2424 root      20   0  323488  16160   6240 S   2.9   0.2   0:01.48 jtop
+   4441 jonas     20   0  370436  29652  14972 S   2.9   0.4   0:01.14 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.75 top
+     39 root      20   0       0      0      0 S   1.0   0.0   0:00.04 ksoftir+
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.28 kworker+
+
+top - 10:38:55 up 11 min,  1 user,  load average: 5.33, 1.68, 0.71
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.0 us, 61.9 sy,  0.0 ni,  4.2 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4145.6 free,   1617.8 used,   1687.4 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5595.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 192056  41740 S 518.3   2.5   3:56.59 ov2slam+
+    157 root       0 -20       0      0      0 I  12.5   0.0   0:11.91 kworker+
+    217 root       0 -20       0      0      0 I  12.5   0.0   0:07.98 kworker+
+   2424 root      20   0  323488  16160   6240 S   3.8   0.2   0:01.52 jtop
+   4441 jonas     20   0  369980  29180  14972 S   2.9   0.4   0:01.17 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.14 systemd
+     44 root      20   0       0      0      0 I   1.0   0.0   0:00.18 kworker+
+    198 root       0 -20       0      0      0 I   1.0   0.0   0:09.25 kworker+
+   2909 jonas     20   0 4051460 276196 112564 S   1.0   3.6   0:10.15 gnome-s+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.32 roscore
+   4329 jonas     20   0    9548   3100   2720 S   1.0   0.0   0:00.05 bash
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.76 top
+
+top - 10:38:56 up 11 min,  1 user,  load average: 5.33, 1.68, 0.71
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.0 us, 61.7 sy,  0.0 ni,  3.5 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4145.6 free,   1617.8 used,   1687.4 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5595.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 193628  41740 S 533.3   2.5   4:02.03 ov2slam+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:12.14 kworker+
+    157 root       0 -20       0      0      0 I  12.7   0.0   0:12.04 kworker+
+   2424 root      20   0  323488  16160   6240 S   2.9   0.2   0:01.55 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.78 top
+   4441 jonas     20   0  369980  29100  14972 S   2.0   0.4   0:01.19 play
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.35 kworker+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.43 kworker+
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.39 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.33 roscore
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.19 rosout
+
+top - 10:38:58 up 11 min,  1 user,  load average: 5.33, 1.68, 0.71
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.3 us, 63.6 sy,  0.0 ni,  6.2 id,  0.0 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4113.9 free,   1622.4 used,   1714.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5590.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 194684  41740 S 496.1   2.6   4:07.14 ov2slam+
+    217 root       0 -20       0      0      0 I  37.9   0.0   0:08.37 kworker+
+     94 root       0 -20       0      0      0 R   9.7   0.0   0:12.24 kworker+
+   2424 root      20   0  323488  16160   6240 S   3.9   0.2   0:01.59 jtop
+   4441 jonas     20   0  369980  29116  14972 S   3.9   0.4   0:01.23 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.80 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.15 systemd
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.19 jtop
+   3361 root      20   0  397876  31380  26072 S   1.0   0.4   0:00.93 fwupd
+
+top - 10:38:59 up 11 min,  1 user,  load average: 5.39, 1.76, 0.74
+Tasks: 335 total,   3 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.0 us, 65.4 sy,  0.0 ni,  3.8 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4113.9 free,   1622.4 used,   1714.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5590.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 195452  41740 S 506.7   2.6   4:12.41 ov2slam+
+    198 root       0 -20       0      0      0 I  25.0   0.0   0:09.51 kworker+
+    157 root       0 -20       0      0      0 R  10.6   0.0   0:12.15 kworker+
+     94 root       0 -20       0      0      0 I   3.8   0.0   0:12.28 kworker+
+   2424 root      20   0  323488  16160   6240 S   2.9   0.2   0:01.62 jtop
+   2776 root      20   0   24.2g  45620  25748 S   1.9   0.6   0:03.28 Xorg
+   4441 jonas     20   0  370436  29444  14972 R   1.9   0.4   0:01.25 play
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.59 nvgpu_c+
+   2909 jonas     20   0 4051460 276196 112564 S   1.0   3.6   0:10.16 gnome-s+
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.74 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.34 roscore
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.05 rosmast+
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.20 rosout
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.81 top
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.30 python3
+
+top - 10:39:00 up 11 min,  1 user,  load average: 5.39, 1.76, 0.74
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.1 us, 59.8 sy,  0.0 ni,  5.1 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4113.9 free,   1622.4 used,   1714.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5590.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 197516  41740 S 511.7   2.6   4:17.68 ov2slam+
+    157 root       0 -20       0      0      0 I  15.5   0.0   0:12.31 kworker+
+    217 root       0 -20       0      0      0 I  13.6   0.0   0:08.51 kworker+
+     94 root       0 -20       0      0      0 I  12.6   0.0   0:12.41 kworker+
+   2424 root      20   0  323488  16160   6240 S   3.9   0.2   0:01.66 jtop
+   4441 jonas     20   0  369980  29268  14972 S   2.9   0.4   0:01.28 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.83 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.16 systemd
+   2371 gdm       20   0 3952956 163132  84992 S   1.0   2.1   0:05.00 gnome-s+
+   2909 jonas     20   0 4051460 276196 112564 S   1.0   3.6   0:10.17 gnome-s+
+
+top - 10:39:01 up 11 min,  1 user,  load average: 5.39, 1.76, 0.74
+Tasks: 335 total,   3 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.3 us, 65.5 sy,  0.0 ni,  5.3 id,  0.2 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4082.4 free,   1625.8 used,   1742.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5587.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 198308  41740 S 489.4   2.6   4:22.77 ov2slam+
+    119 root       0 -20       0      0      0 I  26.0   0.0   0:06.85 kworker+
+    217 root       0 -20       0      0      0 I  12.5   0.0   0:08.64 kworker+
+     94 root       0 -20       0      0      0 R   9.6   0.0   0:12.51 kworker+
+   2424 root      20   0  323488  16160   6240 S   2.9   0.2   0:01.69 jtop
+   4441 jonas     20   0  370436  29280  14972 R   2.9   0.4   0:01.31 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.85 top
+
+top - 10:39:02 up 11 min,  1 user,  load average: 5.39, 1.76, 0.74
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.6 us, 60.2 sy,  0.0 ni,  4.4 id,  0.0 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4082.4 free,   1625.8 used,   1742.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5587.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 200368  41740 S 534.3   2.6   4:28.22 ov2slam+
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:09.64 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:08.77 kworker+
+     94 root       0 -20       0      0      0 I   2.9   0.0   0:12.54 kworker+
+   2424 root      20   0  323488  16160   6240 S   2.9   0.2   0:01.72 jtop
+   4441 jonas     20   0  369980  29344  14972 S   2.9   0.4   0:01.34 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.87 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.17 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.12 ksoftir+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.44 kworker+
+   1639 root      20   0 1590668  73164  42700 S   1.0   1.0   0:00.53 dockerd
+   3308 jonas     20   0  803780  46036  33200 S   1.0   0.6   0:00.45 update-+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.35 roscore
+
+top - 10:39:03 up 11 min,  1 user,  load average: 5.39, 1.76, 0.74
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.9 us, 61.4 sy,  0.0 ni,  4.9 id,  0.2 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4082.4 free,   1625.8 used,   1742.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5587.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 203212  41740 S 512.3   2.7   4:33.65 ov2slam+
+    217 root       0 -20       0      0      0 R  13.2   0.0   0:08.91 kworker+
+     94 root       0 -20       0      0      0 I  12.3   0.0   0:12.67 kworker+
+   2424 root      20   0  323488  16164   6240 S   3.8   0.2   0:01.76 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:00.89 top
+   4441 jonas     20   0  370436  29548  14972 D   1.9   0.4   0:01.36 play
+    115 root      20   0       0      0      0 I   0.9   0.0   0:00.29 kworker+
+    440 root      20   0  338452  20780  15464 S   0.9   0.3   0:00.95 Network+
+   2416 root      20   0  396964  17372   5676 S   0.9   0.2   0:00.20 jtop
+   4329 jonas     20   0    9548   3100   2720 S   0.9   0.0   0:00.06 bash
+
+top - 10:39:04 up 11 min,  1 user,  load average: 5.76, 1.89, 0.79
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.3 us, 63.8 sy,  0.0 ni,  6.7 id,  0.3 wa,  0.7 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4050.2 free,   1631.1 used,   1769.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5581.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 203988  41740 S 488.7   2.7   4:39.27 ov2slam+
+    119 root       0 -20       0      0      0 R  13.9   0.0   0:07.01 kworker+
+    198 root       0 -20       0      0      0 I  12.2   0.0   0:09.78 kworker+
+    249 root       0 -20       0      0      0 I  11.3   0.0   0:08.99 kworker+
+    217 root       0 -20       0      0      0 I  10.4   0.0   0:09.03 kworker+
+   2424 root      20   0  323488  16164   6240 S   2.6   0.2   0:01.79 jtop
+   4441 jonas     20   0  369980  29180  14972 S   2.6   0.4   0:01.39 play
+   4330 jonas     20   0   12024   3328   2688 R   1.7   0.0   0:00.91 top
+      1 root      20   0  170012  10456   7072 S   0.9   0.1   0:08.18 systemd
+      7 root      20   0       0      0      0 I   0.9   0.0   0:00.30 kworker+
+   4140 jonas     20   0  473608  47132  15536 S   0.9   0.6   0:01.36 roscore
+   4171 jonas     20   0  798132  46724  15580 S   0.9   0.6   0:01.06 rosmast+
+
+top - 10:39:05 up 11 min,  1 user,  load average: 5.76, 1.89, 0.79
+Tasks: 335 total,   3 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.3 us, 66.0 sy,  0.0 ni,  4.9 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4050.2 free,   1631.1 used,   1769.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5581.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 205256  41740 S 506.8   2.7   4:44.49 ov2slam+
+    249 root       0 -20       0      0      0 I  12.6   0.0   0:09.12 kworker+
+    198 root       0 -20       0      0      0 R  11.7   0.0   0:09.90 kworker+
+    119 root       0 -20       0      0      0 I   9.7   0.0   0:07.11 kworker+
+   2424 root      20   0  323488  16164   6240 S   3.9   0.2   0:01.83 jtop
+   2909 jonas     20   0 4051460 276212 112564 R   3.9   3.6   0:10.21 gnome-s+
+   4441 jonas     20   0  369980  29252  14972 S   2.9   0.4   0:01.42 play
+     24 root      20   0       0      0      0 S   1.0   0.0   0:00.05 ksoftir+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:00.92 top
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.31 python3
+
+top - 10:39:06 up 11 min,  1 user,  load average: 5.76, 1.89, 0.79
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.1 us, 59.8 sy,  0.0 ni,  8.2 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4050.2 free,   1631.1 used,   1769.6 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5581.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 206288  41740 S 502.0   2.7   4:49.56 ov2slam+
+    198 root       0 -20       0      0      0 R  14.9   0.0   0:10.05 kworker+
+    217 root       0 -20       0      0      0 I  13.9   0.0   0:09.17 kworker+
+   2424 root      20   0  323488  16164   6240 S   3.0   0.2   0:01.86 jtop
+   4441 jonas     20   0  370892  30100  14972 S   3.0   0.4   0:01.45 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.94 top
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.45 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.29 Xorg
+   2909 jonas     20   0 4051460 276152 112564 S   1.0   3.6   0:10.22 gnome-s+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.37 roscore
+
+top - 10:39:07 up 11 min,  1 user,  load average: 5.76, 1.89, 0.79
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.3 us, 65.0 sy,  0.0 ni,  7.1 id,  0.0 wa,  0.7 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   4023.3 free,   1633.8 used,   1793.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5578.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 207056  41740 S 499.0   2.7   4:54.65 ov2slam+
+    198 root       0 -20       0      0      0 I  25.5   0.0   0:10.31 kworker+
+    157 root       0 -20       0      0      0 I  12.7   0.0   0:12.44 kworker+
+   2424 root      20   0  323488  16164   6240 S   2.9   0.2   0:01.89 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.96 top
+   4441 jonas     20   0  370892  29628  14972 R   2.0   0.4   0:01.47 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.19 systemd
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.60 nvgpu_c+
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.07 rosmast+
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.21 rosout
+
+top - 10:39:08 up 11 min,  1 user,  load average: 5.76, 1.89, 0.79
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.7 us, 61.6 sy,  0.0 ni,  5.7 id,  0.3 wa,  0.6 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   4023.3 free,   1633.8 used,   1793.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5578.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 208328  41740 S 517.6   2.7   4:59.93 ov2slam+
+    198 root       0 -20       0      0      0 I  25.5   0.0   0:10.57 kworker+
+   2424 root      20   0  323488  16164   6240 S   3.9   0.2   0:01.93 jtop
+   4441 jonas     20   0  369980  29312  14972 S   2.9   0.4   0:01.50 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:00.98 top
+    437 message+  20   0    9660   5808   3432 S   1.0   0.1   0:01.40 dbus-da+
+    440 root      20   0  338452  20780  15464 S   1.0   0.3   0:00.96 Network+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.21 jtop
+   2909 jonas     20   0 4051460 276152 112564 S   1.0   3.6   0:10.23 gnome-s+
+
+top - 10:39:09 up 11 min,  1 user,  load average: 5.86, 1.98, 0.82
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.4 us, 63.3 sy,  0.0 ni,  3.5 id,  0.0 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   4023.3 free,   1633.8 used,   1793.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5578.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 209868  41740 S 517.1   2.8   5:06.29 ov2slam+
+     94 root       0 -20       0      0      0 I  22.0   0.0   0:12.94 kworker+
+    198 root       0 -20       0      0      0 I  10.6   0.0   0:10.70 kworker+
+   2424 root      20   0  323488  16164   6240 S   4.9   0.2   0:01.99 jtop
+   4441 jonas     20   0  370436  29676  14972 S   3.3   0.4   0:01.54 play
+      1 root      20   0  170012  10456   7072 S   0.8   0.1   0:08.20 systemd
+     34 root      20   0       0      0      0 S   0.8   0.0   0:00.04 ksoftir+
+   3277 jonas     20   0  510148  25532   4224 S   0.8   0.3   0:00.40 python3
+   4140 jonas     20   0  473608  47132  15536 S   0.8   0.6   0:01.38 roscore
+   4214 jonas     20   0  275268  18612   9460 S   0.8   0.2   0:00.22 rosout
+   4329 jonas     20   0    9548   3100   2720 S   0.8   0.0   0:00.07 bash
+   4330 jonas     20   0   12024   3328   2688 R   0.8   0.0   0:00.99 top
+
+top - 10:39:10 up 11 min,  1 user,  load average: 5.86, 1.98, 0.82
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.7 us, 62.3 sy,  0.0 ni,  2.3 id,  0.0 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3985.1 free,   1643.1 used,   1822.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5569.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 214580  41740 S 532.4   2.8   5:11.72 ov2slam+
+    157 root       0 -20       0      0      0 R  17.6   0.0   0:12.62 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:09.30 kworker+
+   2371 gdm       20   0 3952956 163132  84992 S   2.9   2.1   0:05.03 gnome-s+
+   2424 root      20   0  323488  16164   6240 S   2.9   0.2   0:02.02 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.01 top
+   4441 jonas     20   0  370436  29624  14972 D   2.0   0.4   0:01.56 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.21 systemd
+      7 root      20   0       0      0      0 I   1.0   0.0   0:00.31 kworker+
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.30 kworker+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.46 kworker+
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.08 rosmast+
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.32 python3
+
+top - 10:39:11 up 11 min,  1 user,  load average: 5.86, 1.98, 0.82
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.2 us, 61.9 sy,  0.0 ni,  2.9 id,  0.2 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3985.1 free,   1643.1 used,   1822.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5569.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 215876  41740 S 523.5   2.8   5:17.06 ov2slam+
+    157 root       0 -20       0      0      0 I  21.6   0.0   0:12.84 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:09.43 kworker+
+    119 root       0 -20       0      0      0 R   3.9   0.0   0:07.15 kworker+
+   2424 root      20   0  323488  16164   6240 S   2.9   0.2   0:02.05 jtop
+   4441 jonas     20   0  369980  29200  14972 S   2.9   0.4   0:01.59 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.03 top
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.39 roscore
+
+top - 10:39:12 up 11 min,  1 user,  load average: 5.86, 1.98, 0.82
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 39.2 us, 57.0 sy,  0.0 ni,  3.1 id,  0.0 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3985.1 free,   1643.1 used,   1822.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5569.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 216884  41740 S 533.3   2.8   5:22.50 ov2slam+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:09.25 kworker+
+    119 root       0 -20       0      0      0 R  11.8   0.0   0:07.27 kworker+
+   2424 root      20   0  323488  16168   6240 S   3.9   0.2   0:02.09 jtop
+   4441 jonas     20   0  369980  29264  14972 S   2.9   0.4   0:01.62 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.05 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.22 systemd
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.22 jtop
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.30 Xorg
+
+top - 10:39:13 up 11 min,  1 user,  load average: 5.86, 1.98, 0.82
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.7 us, 62.0 sy,  0.0 ni,  3.4 id,  0.2 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3952.3 free,   1648.5 used,   1850.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5564.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 219696  41740 S 531.4   2.9   5:27.92 ov2slam+
+    249 root       0 -20       0      0      0 I  13.7   0.0   0:09.39 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:13.07 kworker+
+    119 root       0 -20       0      0      0 I  10.8   0.0   0:07.38 kworker+
+   2424 root      20   0  323488  16168   6240 S   3.9   0.2   0:02.13 jtop
+   4441 jonas     20   0  369980  29336  14972 S   2.9   0.4   0:01.65 play
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.75 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.40 roscore
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.06 top
+
+top - 10:39:14 up 11 min,  1 user,  load average: 6.43, 2.16, 0.89
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.9 us, 60.5 sy,  0.0 ni,  3.8 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3952.3 free,   1648.5 used,   1850.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5564.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 221248  41740 S 519.2   2.9   5:33.32 ov2slam+
+    157 root       0 -20       0      0      0 I  12.5   0.0   0:12.97 kworker+
+    217 root       0 -20       0      0      0 I  12.5   0.0   0:09.56 kworker+
+   2424 root      20   0  323488  16168   6240 S   2.9   0.2   0:02.16 jtop
+   4441 jonas     20   0  369980  29136  14972 S   2.9   0.4   0:01.68 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.08 top
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.31 Xorg
+
+top - 10:39:15 up 11 min,  1 user,  load average: 6.43, 2.16, 0.89
+Tasks: 335 total,   3 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.6 us, 62.4 sy,  0.0 ni,  4.1 id,  0.3 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3952.3 free,   1648.5 used,   1850.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5564.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 223208  41740 S 514.7   2.9   5:38.57 ov2slam+
+     94 root       0 -20       0      0      0 R  22.5   0.0   0:13.30 kworker+
+    217 root       0 -20       0      0      0 I  13.7   0.0   0:09.70 kworker+
+   2424 root      20   0  323488  16168   6240 S   2.9   0.2   0:02.19 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.10 top
+   4441 jonas     20   0  370436  29200  14972 R   2.0   0.4   0:01.70 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.23 systemd
+      7 root      20   0       0      0      0 I   1.0   0.0   0:00.32 kworker+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.47 kworker+
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.61 nvgpu_c+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.41 roscore
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.09 rosmast+
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.23 rosout
+
+top - 10:39:16 up 11 min,  1 user,  load average: 6.43, 2.16, 0.89
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.3 us, 64.1 sy,  0.0 ni,  3.7 id,  0.0 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3923.4 free,   1650.2 used,   1877.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5562.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 223708  41740 S 515.7   2.9   5:43.83 ov2slam+
+     94 root       0 -20       0      0      0 I  29.4   0.0   0:13.60 kworker+
+    157 root       0 -20       0      0      0 I  13.7   0.0   0:13.11 kworker+
+   2424 root      20   0  323488  16168   6240 S   3.9   0.2   0:02.23 jtop
+   4441 jonas     20   0  369980  29288  14972 S   2.9   0.4   0:01.73 play
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.12 top
+     19 root      20   0       0      0      0 S   1.0   0.0   0:00.05 ksoftir+
+
+top - 10:39:17 up 11 min,  1 user,  load average: 6.43, 2.16, 0.89
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.5 us, 61.9 sy,  0.0 ni,  3.8 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3923.4 free,   1650.2 used,   1877.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5562.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 225248  41740 S 520.4   3.0   5:49.19 ov2slam+
+    119 root       0 -20       0      0      0 I  25.2   0.0   0:07.64 kworker+
+    249 root       0 -20       0      0      0 I  12.6   0.0   0:09.52 kworker+
+   2424 root      20   0  323488  16168   6240 S   3.9   0.2   0:02.27 jtop
+   4441 jonas     20   0  369980  29344  14972 S   2.9   0.4   0:01.76 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.24 systemd
+     29 root      20   0       0      0      0 S   1.0   0.0   0:00.06 ksoftir+
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.36 kworker+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.23 jtop
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.42 roscore
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.13 top
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.33 python3
+
+top - 10:39:18 up 11 min,  1 user,  load average: 6.43, 2.16, 0.89
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.5 us, 63.9 sy,  0.0 ni,  3.7 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3923.4 free,   1650.2 used,   1877.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5562.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 227052  41740 S 527.2   3.0   5:54.62 ov2slam+
+    249 root       0 -20       0      0      0 I  25.2   0.0   0:09.78 kworker+
+   4441 jonas     20   0  369980  29144  14972 S   2.9   0.4   0:01.79 play
+   2424 root      20   0  323488  16168   6240 S   1.9   0.2   0:02.29 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.15 top
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.31 kworker+
+    742 root      20   0    2472   1620   1428 S   1.0   0.0   0:00.22 nvfanco+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.32 Xorg
+
+top - 10:39:19 up 11 min,  1 user,  load average: 6.64, 2.28, 0.93
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.0 us, 63.4 sy,  0.0 ni,  5.6 id,  0.2 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3893.5 free,   1655.9 used,   1901.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5556.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 228080  41740 S 505.7   3.0   5:59.93 ov2slam+
+    198 root       0 -20       0      0      0 I  25.7   0.0   0:10.97 kworker+
+    217 root       0 -20       0      0      0 R  12.4   0.0   0:09.83 kworker+
+   2424 root      20   0  323488  16168   6240 S   3.8   0.2   0:02.33 jtop
+   4441 jonas     20   0  370892  30140  14972 S   2.9   0.4   0:01.82 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.17 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.25 systemd
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.41 python3
+
+top - 10:39:20 up 11 min,  1 user,  load average: 6.64, 2.28, 0.93
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.7 us, 61.5 sy,  0.0 ni,  3.9 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3893.5 free,   1655.9 used,   1901.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5556.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 229112  41740 S 514.7   3.0   6:05.18 ov2slam+
+    217 root       0 -20       0      0      0 I  25.5   0.0   0:10.09 kworker+
+     94 root       0 -20       0      0      0 I  13.7   0.0   0:13.74 kworker+
+   2424 root      20   0  323488  16168   6240 S   2.9   0.2   0:02.36 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.19 top
+   4441 jonas     20   0  369980  29156  14972 S   2.0   0.4   0:01.84 play
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.48 kworker+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.43 roscore
+
+top - 10:39:21 up 11 min,  1 user,  load average: 6.64, 2.28, 0.93
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.0 us, 61.2 sy,  0.0 ni,  5.9 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3893.5 free,   1655.9 used,   1901.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5556.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 230404  41740 S 510.9   3.0   6:10.34 ov2slam+
+     94 root       0 -20       0      0      0 I  12.9   0.0   0:13.87 kworker+
+    157 root       0 -20       0      0      0 D  12.9   0.0   0:13.24 kworker+
+    198 root       0 -20       0      0      0 I  12.9   0.0   0:11.10 kworker+
+   2424 root      20   0  323488  16168   6240 S   3.0   0.2   0:02.39 jtop
+   4441 jonas     20   0  369980  29228  14972 S   3.0   0.4   0:01.87 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.26 systemd
+     44 root      20   0       0      0      0 D   1.0   0.0   0:00.19 kworker+
+   1639 root      20   0 1590668  73164  42700 S   1.0   1.0   0:00.54 dockerd
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.24 jtop
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.10 rosmast+
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.24 rosout
+   4329 jonas     20   0    9548   3100   2720 S   1.0   0.0   0:00.08 bash
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.20 top
+
+top - 10:39:23 up 11 min,  1 user,  load average: 6.64, 2.28, 0.93
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.8 us, 60.7 sy,  0.0 ni,  5.7 id,  0.0 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3867.1 free,   1657.7 used,   1926.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5554.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 231936  41740 S 519.6   3.0   6:15.64 ov2slam+
+    119 root       0 -20       0      0      0 I  13.7   0.0   0:07.78 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:10.22 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:09.91 kworker+
+   2424 root      20   0  323488  16168   6240 S   3.9   0.2   0:02.43 jtop
+   4140 jonas     20   0  473608  47132  15536 S   2.0   0.6   0:01.45 roscore
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.22 top
+   4441 jonas     20   0  369980  29176  14972 S   2.0   0.4   0:01.89 play
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.11 rosmast+
+
+top - 10:39:24 up 11 min,  1 user,  load average: 6.74, 2.37, 0.97
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.9 us, 62.0 sy,  0.0 ni,  3.2 id,  0.2 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3867.1 free,   1657.7 used,   1926.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5554.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 232712  41740 S 514.0   3.1   6:21.14 ov2slam+
+    249 root       0 -20       0      0      0 I  25.2   0.0   0:10.18 kworker+
+    119 root       0 -20       0      0      0 I  12.1   0.0   0:07.91 kworker+
+   4441 jonas     20   0  369980  29248  14972 S   3.7   0.4   0:01.93 play
+   2424 root      20   0  323488  16172   6240 S   2.8   0.2   0:02.46 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.8   0.0   0:01.25 top
+     93 root      20   0       0      0      0 I   0.9   0.0   0:00.37 kworker+
+    933 root      20   0       0      0      0 S   0.9   0.0   0:00.32 RTW_CMD+
+   4331 jonas     20   0  248448  19608   7932 S   0.9   0.3   0:00.34 python3
+
+top - 10:39:25 up 11 min,  1 user,  load average: 6.74, 2.37, 0.97
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.6 us, 62.8 sy,  0.0 ni,  4.9 id,  0.0 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3843.7 free,   1661.1 used,   1946.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5551.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 234492  41740 S 513.5   3.1   6:26.48 ov2slam+
+    198 root       0 -20       0      0      0 I  13.5   0.0   0:11.24 kworker+
+    217 root       0 -20       0      0      0 I  12.5   0.0   0:10.35 kworker+
+   2424 root      20   0  323488  16172   6240 S   3.8   0.2   0:02.50 jtop
+   4441 jonas     20   0  369980  29320  14972 S   2.9   0.4   0:01.96 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.27 systemd
+     56 root      39  19       0      0      0 S   1.0   0.0   0:00.20 khugepa+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.49 kworker+
+   4063 root      20   0       0      0      0 I   1.0   0.0   0:00.01 kworker+
+   4329 jonas     20   0    9548   3100   2720 S   1.0   0.0   0:00.09 bash
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.26 top
+
+top - 10:39:26 up 11 min,  1 user,  load average: 6.74, 2.37, 0.97
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.1 us, 63.7 sy,  0.0 ni,  5.2 id,  0.2 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3843.7 free,   1661.1 used,   1946.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5551.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 236592  41740 S 512.7   3.1   6:31.71 ov2slam+
+    119 root       0 -20       0      0      0 R  20.6   0.0   0:08.12 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:14.00 kworker+
+   2424 root      20   0  323488  16172   6240 S   2.0   0.2   0:02.52 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.28 top
+   4441 jonas     20   0  370436  29664  14972 D   2.0   0.4   0:01.98 play
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.62 nvgpu_c+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.25 jtop
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.46 roscore
+
+top - 10:39:27 up 11 min,  1 user,  load average: 6.74, 2.37, 0.97
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.8 us, 61.4 sy,  0.0 ni,  3.1 id,  0.7 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3843.7 free,   1661.1 used,   1946.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5551.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 237908  41740 S 492.2   3.1   6:36.73 ov2slam+
+    119 root       0 -20       0      0      0 I  18.6   0.0   0:08.31 kworker+
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:14.13 kworker+
+    249 root       0 -20       0      0      0 I  12.7   0.0   0:10.31 kworker+
+   2909 jonas     20   0 4051460 276200 112564 S   7.8   3.6   0:10.31 gnome-s+
+   2776 root      20   0   24.2g  45620  25748 S   5.9   0.6   0:03.38 Xorg
+   2424 root      20   0  323488  16172   6240 S   4.9   0.2   0:02.57 jtop
+   4107 jonas     20   0  813576  49508  36792 S   3.9   0.6   0:01.42 gnome-t+
+   4441 jonas     20   0  369980  29100  14972 S   2.9   0.4   0:02.01 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.28 systemd
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.32 kworker+
+    217 root       0 -20       0      0      0 I   1.0   0.0   0:10.36 kworker+
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.20 irq/223+
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.12 rosmast+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.29 top
+
+top - 10:39:28 up 11 min,  1 user,  load average: 6.74, 2.37, 0.97
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.6 us, 63.5 sy,  0.0 ni,  4.9 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3808.7 free,   1666.3 used,   1975.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5546.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 239964  41740 S 499.0   3.1   6:41.82 ov2slam+
+    119 root       0 -20       0      0      0 D  12.7   0.0   0:08.44 kworker+
+    157 root       0 -20       0      0      0 I  12.7   0.0   0:13.37 kworker+
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:11.37 kworker+
+   4107 jonas     20   0  813576  49508  36792 S   3.9   0.6   0:01.46 gnome-t+
+   2424 root      20   0  323488  16172   6240 S   2.9   0.2   0:02.60 jtop
+   4441 jonas     20   0  370436  29684  14972 S   2.9   0.4   0:02.04 play
+   2776 root      20   0   24.2g  45620  25748 S   2.0   0.6   0:03.40 Xorg
+   2909 jonas     20   0 4051460 276200 112564 S   2.0   3.6   0:10.33 gnome-s+
+    129 root     -51   0       0      0      0 S   1.0   0.0   0:00.17 irq/128+
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.76 python3
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.30 top
+
+top - 10:39:29 up 11 min,  1 user,  load average: 6.60, 2.41, 0.99
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.5 us, 62.1 sy,  0.0 ni,  5.6 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3808.7 free,   1666.3 used,   1975.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5546.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 240744  41740 S 499.0   3.2   6:46.91 ov2slam+
+    157 root       0 -20       0      0      0 I  12.7   0.0   0:13.50 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:10.49 kworker+
+    249 root       0 -20       0      0      0 R  12.7   0.0   0:10.44 kworker+
+   2424 root      20   0  323488  16172   6240 S   2.9   0.2   0:02.63 jtop
+   2776 root      20   0   24.2g  45620  25748 S   2.9   0.6   0:03.43 Xorg
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:01.33 top
+   4441 jonas     20   0  369980  29124  14972 S   2.9   0.4   0:02.07 play
+   2909 jonas     20   0 4051460 276200 112564 S   2.0   3.6   0:10.35 gnome-s+
+   4107 jonas     20   0  813576  49508  36792 S   2.0   0.6   0:01.48 gnome-t+
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.29 systemd
+     13 root      20   0       0      0      0 I   1.0   0.0   0:00.15 rcu_pre+
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.38 kworker+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.47 roscore
+   4214 jonas     20   0  275268  18612   9460 S   1.0   0.2   0:00.25 rosout
+
+top - 10:39:30 up 11 min,  1 user,  load average: 6.60, 2.41, 0.99
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.8 us, 62.2 sy,  0.0 ni,  4.2 id,  0.0 wa,  0.6 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3808.7 free,   1666.3 used,   1975.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5546.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 242812  41740 S 524.0   3.2   6:52.36 ov2slam+
+    119 root       0 -20       0      0      0 I  12.5   0.0   0:08.57 kworker+
+    217 root       0 -20       0      0      0 I  12.5   0.0   0:10.62 kworker+
+   2424 root      20   0  323488  16172   6240 S   3.8   0.2   0:02.67 jtop
+   2776 root      20   0   24.2g  45620  25748 S   2.9   0.6   0:03.46 Xorg
+   2909 jonas     20   0 4051460 276200 112564 S   2.9   3.6   0:10.38 gnome-s+
+   4441 jonas     20   0  369980  29204  14972 S   2.9   0.4   0:02.10 play
+   4107 jonas     20   0  813576  49508  36792 S   1.9   0.6   0:01.50 gnome-t+
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.35 top
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.50 kworker+
+    285 root      39  19       0      0      0 S   1.0   0.0   0:00.06 nvmap-bz
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.26 jtop
+
+top - 10:39:31 up 11 min,  1 user,  load average: 6.60, 2.41, 0.99
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.8 us, 61.5 sy,  0.0 ni,  2.9 id,  0.2 wa,  0.5 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3779.5 free,   1669.9 used,   2001.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5542.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 243568  41740 S 524.5   3.2   6:57.71 ov2slam+
+    198 root       0 -20       0      0      0 I  25.5   0.0   0:11.63 kworker+
+    157 root       0 -20       0      0      0 I  13.7   0.0   0:13.64 kworker+
+   2424 root      20   0  323488  16172   6240 S   2.9   0.2   0:02.70 jtop
+   4441 jonas     20   0  369980  29300  14972 S   2.0   0.4   0:02.12 play
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.30 systemd
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.48 roscore
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.36 top
+
+top - 10:39:32 up 11 min,  1 user,  load average: 6.60, 2.41, 0.99
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.9 us, 65.0 sy,  0.0 ni,  6.1 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3779.5 free,   1669.9 used,   2001.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5542.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 241720  41740 S 496.1   3.2   7:02.82 ov2slam+
+    157 root       0 -20       0      0      0 I  12.6   0.0   0:13.77 kworker+
+    198 root       0 -20       0      0      0 I  12.6   0.0   0:11.76 kworker+
+    217 root       0 -20       0      0      0 I  12.6   0.0   0:10.75 kworker+
+   2424 root      20   0  323488  16172   6240 S   3.9   0.2   0:02.74 jtop
+   4441 jonas     20   0  369980  29100  14972 S   3.9   0.4   0:02.16 play
+   4171 jonas     20   0  798132  46724  15580 S   1.0   0.6   0:01.13 rosmast+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.37 top
+
+top - 10:39:33 up 11 min,  1 user,  load average: 6.60, 2.41, 0.99
+Tasks: 335 total,   3 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.0 us, 64.4 sy,  0.0 ni,  4.8 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3779.5 free,   1669.9 used,   2001.5 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5542.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 245912  41740 S 525.7   3.2   7:08.13 ov2slam+
+    157 root       0 -20       0      0      0 R  14.9   0.0   0:13.92 kworker+
+    217 root       0 -20       0      0      0 I  12.9   0.0   0:10.88 kworker+
+   2424 root      20   0  323488  16172   6240 S   3.0   0.2   0:02.77 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.39 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.31 systemd
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.63 nvgpu_c+
+   2776 root      20   0   24.2g  45620  25748 R   1.0   0.6   0:03.47 Xorg
+   2909 jonas     20   0 4051460 276200 112564 S   1.0   3.6   0:10.39 gnome-s+
+   4329 jonas     20   0    9548   3100   2720 S   1.0   0.0   0:00.10 bash
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.35 python3
+   4441 jonas     20   0  370436  29568  14972 D   1.0   0.4   0:02.17 play
+
+top - 10:39:34 up 11 min,  1 user,  load average: 7.12, 2.59, 1.06
+Tasks: 334 total,   2 running, 332 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.0 us, 68.1 sy,  0.0 ni,  3.5 id,  0.7 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3751.4 free,   1673.8 used,   2025.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5538.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 246692  41740 R 513.7   3.2   7:13.37 ov2slam+
+    217 root       0 -20       0      0      0 I  25.5   0.0   0:11.14 kworker+
+    157 root       0 -20       0      0      0 I  11.8   0.0   0:14.04 kworker+
+   4441 jonas     20   0  369980  29132  14972 S   2.9   0.4   0:02.20 play
+   2424 root      20   0  323488  16176   6240 S   2.0   0.2   0:02.79 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.41 top
+     94 root       0 -20       0      0      0 D   1.0   0.0   0:14.14 kworker+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.49 roscore
+
+top - 10:39:35 up 11 min,  1 user,  load average: 7.12, 2.59, 1.06
+Tasks: 336 total,   1 running, 335 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.1 us, 62.0 sy,  0.0 ni,  2.5 id,  0.6 wa,  0.7 hi,  0.1 si,  0.0 st
+MiB Mem :   7450.9 total,   3751.4 free,   1673.8 used,   2025.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5538.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 248224  41740 S 521.8   3.3   7:19.58 ov2slam+
+    198 root       0 -20       0      0      0 I  11.8   0.0   0:11.90 kworker+
+    217 root       0 -20       0      0      0 I  11.8   0.0   0:11.28 kworker+
+     94 root       0 -20       0      0      0 I  10.9   0.0   0:14.27 kworker+
+    157 root       0 -20       0      0      0 I  10.9   0.0   0:14.17 kworker+
+   2424 root      20   0  323488  16176   6240 S   4.2   0.2   0:02.84 jtop
+   4441 jonas     20   0  369980  29100  14972 S   3.4   0.4   0:02.24 play
+   4330 jonas     20   0   12024   3328   2688 R   1.7   0.0   0:01.43 top
+    115 root      20   0       0      0      0 I   0.8   0.0   0:00.33 kworker+
+   2909 jonas     20   0 4051460 276200 112564 S   0.8   3.6   0:10.40 gnome-s+
+   3277 jonas     20   0  510148  25532   4224 S   0.8   0.3   0:00.42 python3
+   4107 jonas     20   0  813576  49508  36792 S   0.8   0.6   0:01.51 gnome-t+
+   4171 jonas     20   0  798132  46724  15580 S   0.8   0.6   0:01.14 rosmast+
+   4214 jonas     20   0  275268  18612   9460 S   0.8   0.2   0:00.26 rosout
+
+top - 10:39:36 up 11 min,  1 user,  load average: 7.12, 2.59, 1.06
+Tasks: 336 total,   1 running, 335 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.0 us, 61.5 sy,  0.0 ni,  3.7 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3751.4 free,   1673.8 used,   2025.7 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5538.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 249528  41740 S 524.3   3.3   7:24.98 ov2slam+
+    198 root       0 -20       0      0      0 I  12.6   0.0   0:12.03 kworker+
+    217 root       0 -20       0      0      0 I  12.6   0.0   0:11.41 kworker+
+   2424 root      20   0  323488  16176   6240 S   2.9   0.2   0:02.87 jtop
+   4441 jonas     20   0  369980  29180  14972 S   2.9   0.4   0:02.27 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.45 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.32 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.51 kworker+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.27 jtop
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.48 Xorg
+   2909 jonas     20   0 4051460 276200 112564 S   1.0   3.6   0:10.41 gnome-s+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.50 roscore
+
+top - 10:39:37 up 11 min,  1 user,  load average: 7.12, 2.59, 1.06
+Tasks: 336 total,   2 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.2 us, 68.4 sy,  0.0 ni,  4.8 id,  0.0 wa,  0.7 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3719.3 free,   1677.3 used,   2054.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5535.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 249788  41740 S 493.2   3.3   7:30.06 ov2slam+
+    119 root       0 -20       0      0      0 I  12.6   0.0   0:08.70 kworker+
+    157 root       0 -20       0      0      0 I  12.6   0.0   0:14.30 kworker+
+    198 root       0 -20       0      0      0 I  12.6   0.0   0:12.16 kworker+
+    217 root       0 -20       0      0      0 I  12.6   0.0   0:11.54 kworker+
+   2424 root      20   0  323488  16176   6240 S   4.9   0.2   0:02.92 jtop
+   4441 jonas     20   0  369980  29252  14972 S   2.9   0.4   0:02.30 play
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.47 top
+      1 root      20   0  170012  10456   7072 R   1.0   0.1   0:08.33 systemd
+      7 root      20   0       0      0      0 I   1.0   0.0   0:00.33 kworker+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.51 roscore
+
+top - 10:39:38 up 11 min,  1 user,  load average: 7.12, 2.59, 1.06
+Tasks: 335 total,   2 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.0 us, 65.7 sy,  0.0 ni,  8.4 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3719.3 free,   1677.3 used,   2054.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5535.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250308  41740 S 495.1   3.3   7:35.11 ov2slam+
+    249 root       0 -20       0      0      0 R  16.7   0.0   0:10.61 kworker+
+    119 root       0 -20       0      0      0 I  13.7   0.0   0:08.84 kworker+
+   2424 root      20   0  323488  16176   6240 S   2.9   0.2   0:02.95 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.49 top
+   4441 jonas     20   0  370436  29448  14972 D   2.0   0.4   0:02.32 play
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.49 Xorg
+   2909 jonas     20   0 4051460 276200 112564 S   1.0   3.6   0:10.42 gnome-s+
+
+top - 10:39:39 up 11 min,  1 user,  load average: 7.03, 2.65, 1.08
+Tasks: 334 total,   3 running, 331 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.1 us, 66.2 sy,  0.0 ni, 11.5 id,  0.3 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3719.3 free,   1677.3 used,   2054.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5535.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 480.4   3.3   7:40.01 ov2slam+
+    249 root       0 -20       0      0      0 I   9.8   0.0   0:10.71 kworker+
+   2424 root      20   0  323488  16176   6240 S   3.9   0.2   0:02.99 jtop
+    217 root       0 -20       0      0      0 R   2.0   0.0   0:11.56 kworker+
+   4171 jonas     20   0  798132  46788  15580 S   2.0   0.6   0:01.16 rosmast+
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.34 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.52 kworker+
+    317 systemd+  20   0   24676  11208   7168 S   1.0   0.1   0:00.16 systemd+
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.36 python3
+   6563 jonas     20   0   11244   1212   1012 R   1.0   0.0   0:00.01 ps
+
+top - 10:39:40 up 11 min,  1 user,  load average: 7.03, 2.65, 1.08
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.0 us, 63.3 sy,  0.0 ni, 14.8 id,  0.1 wa,  0.7 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3760.6 free,   1630.3 used,   2060.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5582.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 483.2   3.3   7:45.47 ov2slam+
+    217 root       0 -20       0      0      0 I   9.7   0.0   0:11.67 kworker+
+   2424 root      20   0  323488  16176   6240 S   2.7   0.2   0:03.02 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.8   0.0   0:01.51 top
+     48 root      20   0       0      0      0 I   0.9   0.0   0:00.02 kworker+
+    291 root     -51   0       0      0      0 S   0.9   0.0   0:00.21 irq/223+
+   2416 root      20   0  396964  17372   5676 S   0.9   0.2   0:00.28 jtop
+   4331 jonas     20   0  248448  19608   7932 S   0.9   0.3   0:00.37 python3
+
+top - 10:39:41 up 11 min,  1 user,  load average: 7.03, 2.65, 1.08
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.3 us, 62.1 sy,  0.0 ni, 15.6 id,  0.0 wa,  0.8 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3760.6 free,   1630.3 used,   2060.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5582.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 495.0   3.3   7:50.47 ov2slam+
+   2424 root      20   0  323488  16176   6240 S   3.0   0.2   0:03.05 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.53 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.35 systemd
+
+top - 10:39:42 up 11 min,  1 user,  load average: 7.03, 2.65, 1.08
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us, 65.8 sy,  0.0 ni, 14.2 id,  0.0 wa,  0.5 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3760.6 free,   1630.3 used,   2060.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5582.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 498.0   3.3   7:55.55 ov2slam+
+   2424 root      20   0  323488  16176   6240 S   2.9   0.2   0:03.08 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.55 top
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.64 nvgpu_c+
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.43 python3
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.52 roscore
+   4171 jonas     20   0  798132  46788  15580 S   1.0   0.6   0:01.17 rosmast+
+   4214 jonas     20   0  283464  18612   9460 S   1.0   0.2   0:00.27 rosout
+
+top - 10:39:43 up 12 min,  1 user,  load average: 7.03, 2.65, 1.08
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.7 us, 64.2 sy,  0.0 ni, 14.3 id,  0.0 wa,  0.7 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3760.4 free,   1630.5 used,   2060.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5582.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 500.0   3.3   8:00.65 ov2slam+
+   2424 root      20   0  323488  16176   6240 S   2.0   0.2   0:03.10 jtop
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.77 python3
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.56 top
+
+top - 10:39:44 up 12 min,  1 user,  load average: 6.94, 2.70, 1.11
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.6 us, 66.4 sy,  0.0 ni, 12.3 id,  0.0 wa,  0.6 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3760.4 free,   1630.5 used,   2060.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5582.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 500.0   3.3   8:05.75 ov2slam+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:11.80 kworker+
+   2424 root      20   0  323488  16180   6240 S   2.9   0.2   0:03.13 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.58 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.36 systemd
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.34 kworker+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.53 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.50 Xorg
+
+top - 10:39:45 up 12 min,  1 user,  load average: 6.94, 2.70, 1.11
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.4 us, 62.8 sy,  0.0 ni, 15.2 id,  0.0 wa,  0.7 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3760.4 free,   1630.5 used,   2060.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5582.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 493.1   3.3   8:10.78 ov2slam+
+   2424 root      20   0  323488  16180   6240 S   2.9   0.2   0:03.16 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.60 top
+      7 root      20   0       0      0      0 I   1.0   0.0   0:00.34 kworker+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.29 jtop
+
+top - 10:39:46 up 12 min,  1 user,  load average: 6.94, 2.70, 1.11
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.3 us, 63.4 sy,  0.0 ni, 15.5 id,  0.0 wa,  0.8 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3759.6 free,   1631.1 used,   2060.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5581.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S 489.2   3.3   8:15.77 ov2slam+
+   2424 root      20   0  323488  16180   6240 S   2.9   0.2   0:03.19 jtop
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.37 systemd
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:01.61 top
+
+top - 10:39:47 up 12 min,  1 user,  load average: 6.94, 2.70, 1.11
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.0 us,  7.4 sy,  0.0 ni, 88.3 id,  0.0 wa,  1.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3759.6 free,   1631.1 used,   2060.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5581.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S  49.0   3.3   8:16.27 ov2slam+
+   2424 root      20   0  323488  16180   6240 S   3.9   0.2   0:03.23 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.63 top
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.39 kworker+
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.38 python3
+
+top - 10:39:48 up 12 min,  1 user,  load average: 6.94, 2.70, 1.11
+Tasks: 335 total,   1 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.5 us,  3.1 sy,  0.0 ni, 95.1 id,  0.0 wa,  1.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3759.6 free,   1631.1 used,   2060.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5581.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2360456 250312  41740 S   9.8   3.3   8:16.37 ov2slam+
+   2424 root      20   0  323488  16180   6240 S   3.9   0.2   0:03.27 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:01.66 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.38 systemd
+
+top - 10:39:49 up 12 min,  1 user,  load average: 6.55, 2.69, 1.11
+Tasks: 336 total,   2 running, 334 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.4 us,  9.1 sy,  0.0 ni, 80.6 id,  0.5 wa,  0.3 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3755.9 free,   1634.2 used,   2060.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5578.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4298 jonas     20   0 2303084 238724  42076 S  32.4   3.1   8:16.70 ov2slam+
+   6638 root      20   0   31040  20304   7744 R  16.7   0.3   0:00.17 apport
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:14.40 kworker+
+    198 root       0 -20       0      0      0 I  12.7   0.0   0:12.29 kworker+
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:11.93 kworker+
+   2424 root      20   0  323488  16180   6240 S   2.9   0.2   0:03.30 jtop
+   2909 jonas     20   0 4051460 276200 112564 S   2.9   3.6   0:10.45 gnome-s+
+   2776 root      20   0   24.2g  45620  25748 S   2.0   0.6   0:03.52 Xorg
+   4107 jonas     20   0  813576  49508  36792 S   2.0   0.6   0:01.53 gnome-t+
+   4171 jonas     20   0  798132  46856  15580 S   2.0   0.6   0:01.19 rosmast+
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.68 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.39 systemd
+    129 root     -51   0       0      0      0 S   1.0   0.0   0:00.18 irq/128+
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.54 kworker+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.53 roscore
+
+top - 10:39:50 up 12 min,  1 user,  load average: 6.55, 2.69, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  4.2 sy,  0.0 ni, 91.2 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3755.9 free,   1634.2 used,   2060.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5578.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+     94 root       0 -20       0      0      0 I  12.6   0.0   0:14.53 kworker+
+   2424 root      20   0  323488  16180   6240 S   3.9   0.2   0:03.34 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:01.71 top
+   2776 root      20   0   24.2g  45620  25748 S   1.9   0.6   0:03.54 Xorg
+   2909 jonas     20   0 4051460 276200 112564 S   1.9   3.6   0:10.47 gnome-s+
+   2371 gdm       20   0 3952956 163132  84992 S   1.0   2.1   0:05.04 gnome-s+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.30 jtop
+   4107 jonas     20   0  813576  49508  36792 S   1.0   0.6   0:01.54 gnome-t+
+
+top - 10:39:51 up 12 min,  1 user,  load average: 6.55, 2.69, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  1.3 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3755.9 free,   1634.2 used,   2060.8 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5578.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16180   6240 S   3.9   0.2   0:03.38 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.73 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.40 systemd
+   1289 root      20   0 2081944  44456  24924 S   1.0   0.6   0:00.52 contain+
+   3277 jonas     20   0  510148  25532   4224 S   1.0   0.3   0:00.44 python3
+
+top - 10:39:52 up 12 min,  1 user,  load average: 6.55, 2.69, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  1.1 sy,  0.0 ni, 98.0 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3967.7 free,   1422.3 used,   2060.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5790.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16180   6240 S   3.9   0.2   0:03.42 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.75 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.41 systemd
+     44 root      20   0       0      0      0 I   1.0   0.0   0:00.20 kworker+
+    742 root      20   0    2472   1620   1428 S   1.0   0.0   0:00.23 nvfanco+
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.65 nvgpu_c+
+   4107 jonas     20   0  813576  49508  36792 S   1.0   0.6   0:01.55 gnome-t+
+   4214 jonas     20   0  283464  18612   9460 S   1.0   0.2   0:00.28 rosout
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.39 python3
+
+top - 10:39:53 up 12 min,  1 user,  load average: 6.02, 2.65, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  1.3 sy,  0.0 ni, 97.4 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3967.7 free,   1422.3 used,   2060.9 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5790.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16180   6240 S   2.9   0.2   0:03.45 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:01.78 top
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.35 kworker+
+   2909 jonas     20   0 4051460 276200 112564 S   1.0   3.6   0:10.48 gnome-s+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.54 roscore
+   4171 jonas     20   0  798132  46856  15580 S   1.0   0.6   0:01.20 rosmast+
+
+top - 10:39:55 up 12 min,  1 user,  load average: 6.02, 2.65, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  3.3 sy,  0.0 ni, 95.8 id,  0.2 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.9 free,   1423.0 used,   2061.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+     94 root       0 -20       0      0      0 I  12.6   0.0   0:14.66 kworker+
+   2424 root      20   0  323488  16184   6240 S   3.9   0.2   0:03.49 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.80 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.42 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.55 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.55 Xorg
+
+top - 10:39:56 up 12 min,  1 user,  load average: 6.02, 2.65, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.8 sy,  0.0 ni, 97.9 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.9 free,   1423.0 used,   2061.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16184   6240 S   4.9   0.2   0:03.54 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.82 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.43 systemd
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.31 jtop
+   2909 jonas     20   0 4051460 276220 112568 S   1.0   3.6   0:10.49 gnome-s+
+
+top - 10:39:57 up 12 min,  1 user,  load average: 6.02, 2.65, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.8 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.9 free,   1423.0 used,   2061.0 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16184   6240 S   2.9   0.2   0:03.57 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:01.85 top
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.32 jtop
+   2909 jonas     20   0 4051460 276220 112568 S   1.0   3.6   0:10.50 gnome-s+
+   4107 jonas     20   0  813576  49508  36792 S   1.0   0.6   0:01.56 gnome-t+
+   4214 jonas     20   0  283464  18612   9460 S   1.0   0.2   0:00.29 rosout
+
+top - 10:39:58 up 12 min,  1 user,  load average: 6.02, 2.65, 1.11
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  1.5 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.6 free,   1423.2 used,   2061.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16184   6240 S   2.9   0.2   0:03.60 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:01.88 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.44 systemd
+   2909 jonas     20   0 4051460 276220 112568 S   1.0   3.6   0:10.51 gnome-s+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.55 roscore
+
+top - 10:39:59 up 12 min,  1 user,  load average: 5.54, 2.60, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  1.1 sy,  0.0 ni, 97.9 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.6 free,   1423.2 used,   2061.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16184   6240 S   3.9   0.2   0:03.64 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.90 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.45 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.56 kworker+
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.56 Xorg
+   4171 jonas     20   0  798132  46856  15580 S   1.0   0.6   0:01.21 rosmast+
+
+top - 10:40:00 up 12 min,  1 user,  load average: 5.54, 2.60, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  3.4 sy,  0.0 ni, 95.1 id,  0.2 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.6 free,   1423.2 used,   2061.1 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+     94 root       0 -20       0      0      0 I  12.6   0.0   0:14.79 kworker+
+   2424 root      20   0  323488  16184   6240 S   3.9   0.2   0:03.68 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:01.93 top
+   2909 jonas     20   0 4051460 276220 112568 S   1.9   3.6   0:10.53 gnome-s+
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.46 systemd
+    291 root     -51   0       0      0      0 S   1.0   0.0   0:00.22 irq/223+
+    640 root      rt   0       0      0      0 S   1.0   0.0   0:00.20 sugov:0
+   4256 root      20   0       0      0      0 I   1.0   0.0   0:00.04 kworker+
+
+top - 10:40:01 up 12 min,  1 user,  load average: 5.54, 2.60, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  1.3 sy,  0.0 ni, 98.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.7 free,   1422.9 used,   2061.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16184   6240 S   2.9   0.2   0:03.71 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.95 top
+     93 root      20   0       0      0      0 I   1.0   0.0   0:00.40 kworker+
+   1058 root      20   0       0      0      0 S   1.0   0.0   0:00.66 nvgpu_c+
+   1289 root      20   0 2081944  44456  24924 S   1.0   0.6   0:00.53 contain+
+   4214 jonas     20   0  283464  18612   9460 S   1.0   0.2   0:00.30 rosout
+
+top - 10:40:02 up 12 min,  1 user,  load average: 5.54, 2.60, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  3.1 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.7 free,   1422.9 used,   2061.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+     94 root       0 -20       0      0      0 I  12.7   0.0   0:14.92 kworker+
+   2424 root      20   0  323488  16184   6240 S   4.9   0.2   0:03.76 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.0   0.0   0:01.97 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.47 systemd
+    115 root      20   0       0      0      0 I   1.0   0.0   0:00.36 kworker+
+    933 root      20   0       0      0      0 S   1.0   0.0   0:00.33 RTW_CMD+
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.56 roscore
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.40 python3
+
+top - 10:40:03 up 12 min,  1 user,  load average: 5.54, 2.60, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  1.0 sy,  0.0 ni, 98.2 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.7 free,   1422.9 used,   2061.2 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16184   6240 S   2.9   0.2   0:03.79 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:01.99 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.48 systemd
+
+top - 10:40:04 up 12 min,  1 user,  load average: 5.10, 2.56, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  1.3 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.4 free,   1423.2 used,   2061.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16184   6240 S   3.9   0.2   0:03.83 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:02.02 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.49 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.57 kworker+
+   1059 root      20   0       0      0      0 S   1.0   0.0   0:00.08 nvgpu_n+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.33 jtop
+   3137 jonas     20   0  510148  45388  24116 S   1.0   0.6   0:00.78 python3
+
+top - 10:40:05 up 12 min,  1 user,  load average: 5.10, 2.56, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  2.9 sy,  0.0 ni, 96.1 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.4 free,   1423.2 used,   2061.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+     94 root       0 -20       0      0      0 I  12.6   0.0   0:15.05 kworker+
+   2424 root      20   0  323488  16184   6240 S   3.9   0.2   0:03.87 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:02.05 top
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.57 roscore
+   4331 jonas     20   0  248448  19608   7932 S   1.0   0.3   0:00.41 python3
+
+top - 10:40:06 up 12 min,  1 user,  load average: 5.10, 2.56, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.6 us,  0.8 sy,  0.0 ni, 97.4 id,  0.0 wa,  0.2 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.4 free,   1423.2 used,   2061.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2909 jonas     20   0 4051460 276156 112568 S   5.8   3.6   0:10.59 gnome-s+
+   2424 root      20   0  323488  16188   6240 S   2.9   0.2   0:03.90 jtop
+   4330 jonas     20   0   12024   3328   2688 R   1.9   0.0   0:02.07 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.50 systemd
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.57 Xorg
+
+top - 10:40:07 up 12 min,  1 user,  load average: 5.10, 2.56, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.6 us,  3.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.4 free,   1423.2 used,   2061.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    217 root       0 -20       0      0      0 I  12.7   0.0   0:12.06 kworker+
+   2424 root      20   0  323488  16188   6240 S   3.9   0.2   0:03.94 jtop
+   4330 jonas     20   0   12024   3328   2688 R   3.9   0.0   0:02.11 top
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.51 systemd
+     12 root      20   0       0      0      0 S   1.0   0.0   0:00.13 ksoftir+
+   3305 jonas     20   0  784892  87160  50124 S   1.0   1.1   0:02.03 gnome-s+
+   4171 jonas     20   0  798132  46856  15580 S   1.0   0.6   0:01.22 rosmast+
+   4214 jonas     20   0  283464  18612   9460 S   1.0   0.2   0:00.31 rosout
+
+top - 10:40:08 up 12 min,  1 user,  load average: 5.10, 2.56, 1.10
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  1.3 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.2 hi,  0.2 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.4 free,   1423.2 used,   2061.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16188   6240 S   3.9   0.2   0:03.98 jtop
+      1 root      20   0  170012  10456   7072 S   1.0   0.1   0:08.52 systemd
+    145 root      20   0       0      0      0 I   1.0   0.0   0:00.58 kworker+
+   2416 root      20   0  396964  17372   5676 S   1.0   0.2   0:00.34 jtop
+   2776 root      20   0   24.2g  45620  25748 S   1.0   0.6   0:03.58 Xorg
+   4256 root      20   0       0      0      0 I   1.0   0.0   0:00.05 kworker+
+   4330 jonas     20   0   12024   3328   2688 R   1.0   0.0   0:02.12 top
+
+top - 10:40:09 up 12 min,  1 user,  load average: 4.69, 2.52, 1.09
+Tasks: 334 total,   1 running, 333 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  0.8 sy,  0.0 ni, 98.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7450.9 total,   3966.4 free,   1423.2 used,   2061.3 buff/cache
+MiB Swap:   3725.4 total,   3725.4 free,      0.0 used.   5789.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2424 root      20   0  323488  16188   6240 S   2.9   0.2   0:04.01 jtop
+   4330 jonas     20   0   12024   3328   2688 R   2.9   0.0   0:02.15 top
+   4140 jonas     20   0  473608  47132  15536 S   1.0   0.6   0:01.58 roscore
+   4171 jonas     20   0  798132  46856  15580 S   1.0   0.6   0:01.23 rosmast+

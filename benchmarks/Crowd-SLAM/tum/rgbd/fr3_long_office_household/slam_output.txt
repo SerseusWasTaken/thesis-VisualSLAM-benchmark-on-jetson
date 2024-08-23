@@ -1,0 +1,54 @@
+
+Crowd-SLAM Copyright (C) 2020 Joao Carlos Virgolino Soares, Pontifical Catholic University of Rio de Janeiro.
+
+Input sensor was set to: RGB-D
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+
+Camera Parameters: 
+- fx: 535.4
+- fy: 539.2
+- cx: 320.1
+- cy: 247.6
+- k1: 0
+- k2: 0
+- p1: 0
+- p2: 0
+- fps: 30
+- color order: RGB (ignored if grayscale)
+
+ORB Extractor Parameters: 
+- Number of Features: 1000
+- Scale Levels: 8
+- Scale Factor: 1.2
+- Initial Fast Threshold: 20
+- Minimum Fast Threshold: 7
+
+Depth Threshold (Close/Far Points): 2.98842
+
+--------------------------------------------
+loading YOLO network
+loading classes...done
+loading weight files...done
+loading network...done
+--------------------------------------------
+
+-------
+Start processing sequence ...
+Images in the sequence: 2488
+
+New map created with 890 points
+-------
+
+median tracking time: 0.0578778
+mean tracking time: 0.0599655
+
+Saving camera trajectory to CameraTrajectory.txt ...
+
+trajectory saved!
+
+Saving keyframe trajectory to KeyFrameTrajectory.txt ...
+
+trajectory saved!

@@ -1,0 +1,58 @@
+C++ version: 201703
+
+OA-SLAM Copyright (C) 2022 Matthieu Zins, Inria, LORIA, Université de Lorraine;
+Based on ORB-SLAM2;
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions.
+
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+
+Camera Parameters: 
+- fx: 520.909
+- fy: 521.007
+- cx: 325.141
+- cy: 249.702
+- k1: 0.231222
+- k2: -0.784899
+- k3: 0.917205
+- p1: -0.003257
+- p2: -0.000105
+- fps: 30
+- color order: RGB (ignored if grayscale)
+
+ORB Extractor Parameters: 
+- Number of Features: 1000
+- Scale Levels: 8
+- Scale Factor: 1.2
+- Initial Fast Threshold: 20
+- Minimum Fast Threshold: 7
+
+Depth Threshold (Close/Far Points): 3.07156
+Start Local Mapping: 
+-------
+Start processing sequence ...
+Images in the sequence: 2670
+
+New map created with 756 points
+count:3Map has 3 objects
+Shutdown: mpViewer
+-------
+
+median tracking time: 0.203351
+mean tracking time: 0.206042
+
+Saved keyframe trajectory to fr2_360_hemisphere/keyframes_poses_fr2_360_hemisphere_tum.txt
+Saved keyframe trajectory to fr2_360_hemisphere/keyframes_poses_fr2_360_hemisphere.json
+Save map points in fr2_360_hemisphere/map_points_fr2_360_hemisphere.obj
+Save map objects in fr2_360_hemisphere/map_objects_fr2_360_hemisphere.objwith 14objects.
+Save map objects in fr2_360_hemisphere/map_objects_fr2_360_hemisphere.txt
+
+Saving map_fr2_360_hemisphere.mappoints
+Saving map_fr2_360_hemisphere.Objects
+Saving map_fr2_360_hemisphere.keyframes
+Saving map_fr2_360_hemisphere.graphs
+Saving map_fr2_360_hemisphere.features

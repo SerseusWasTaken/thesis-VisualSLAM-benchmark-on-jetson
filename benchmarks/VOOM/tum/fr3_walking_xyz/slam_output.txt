@@ -1,0 +1,57 @@
+C++ version: 201703
+
+OA-SLAM Copyright (C) 2022 Matthieu Zins, Inria, LORIA, Université de Lorraine;
+Based on ORB-SLAM2;
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions.
+
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+
+Camera Parameters: 
+- fx: 535.4
+- fy: 539.2
+- cx: 320.1
+- cy: 247.6
+- k1: 0
+- k2: 0
+- p1: 0
+- p2: 0
+- fps: 30
+- color order: RGB (ignored if grayscale)
+
+ORB Extractor Parameters: 
+- Number of Features: 1000
+- Scale Levels: 8
+- Scale Factor: 1.2
+- Initial Fast Threshold: 20
+- Minimum Fast Threshold: 7
+
+Depth Threshold (Close/Far Points): 2.98842
+Start Local Mapping: 
+-------
+Start processing sequence ...
+Images in the sequence: 827
+
+New map created with 719 points
+count:9Map has 9 objects
+Shutdown: mpViewer
+-------
+
+median tracking time: 0.283789
+mean tracking time: 0.292788
+
+Saved keyframe trajectory to fr3/keyframes_poses_fr3_tum.txt
+Saved keyframe trajectory to fr3/keyframes_poses_fr3.json
+Save map points in fr3/map_points_fr3.obj
+Save map objects in fr3/map_objects_fr3.objwith 59objects.
+Save map objects in fr3/map_objects_fr3.txt
+
+Saving map_fr3.mappoints
+Saving map_fr3.Objects
+Saving map_fr3.keyframes
+Saving map_fr3.graphs
+Saving map_fr3.features

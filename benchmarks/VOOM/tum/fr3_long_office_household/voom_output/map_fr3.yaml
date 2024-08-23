@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+mappointsFile: "map_fr3.mappoints"
+nMappoints: 13770
+ObjectsFile: "map_fr3.Objects"
+nObjects: 136
+keyframesFile: "map_fr3.keyframes"
+nKeyframes: 254
+graphsFile: "map_fr3.graphs"
+nGraphs: 254
+featuresFile: "map_fr3.features"
+nFeatures: 255313
+Options: 2
+Options descriptions: [ FEATURES_FILE_NOT_DELIMITED ]
+cameraMatrices:
+   - { fx:5.3540002441406250e+02, fy:5.3920001220703125e+02,
+       cx:3.2010000610351562e+02, cy:2.4760000610351562e+02 }

@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+mappointsFile: "map_fr2_360_hemisphere.mappoints"
+nMappoints: 11416
+ObjectsFile: "map_fr2_360_hemisphere.Objects"
+nObjects: 48
+keyframesFile: "map_fr2_360_hemisphere.keyframes"
+nKeyframes: 491
+graphsFile: "map_fr2_360_hemisphere.graphs"
+nGraphs: 491
+featuresFile: "map_fr2_360_hemisphere.features"
+nFeatures: 490656
+Options: 2
+Options descriptions: [ FEATURES_FILE_NOT_DELIMITED ]
+cameraMatrices:
+   - { fx:5.2090863037109375e+02, fy:5.2100732421875000e+02,
+       cx:3.2514144897460938e+02, cy:2.4970176696777344e+02 }

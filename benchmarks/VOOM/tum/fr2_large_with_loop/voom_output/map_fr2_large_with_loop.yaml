@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+mappointsFile: "map_fr2_large_with_loop.mappoints"
+nMappoints: 27494
+ObjectsFile: "map_fr2_large_with_loop.Objects"
+nObjects: 126
+keyframesFile: "map_fr2_large_with_loop.keyframes"
+nKeyframes: 1028
+graphsFile: "map_fr2_large_with_loop.graphs"
+nGraphs: 1028
+featuresFile: "map_fr2_large_with_loop.features"
+nFeatures: 1023390
+Options: 1
+Options descriptions: [ FEATURES_FILE_DELIMITED ]
+cameraMatrices:
+   - { fx:5.2090863037109375e+02, fy:5.2100732421875000e+02,
+       cx:3.2514144897460938e+02, cy:2.4970176696777344e+02 }

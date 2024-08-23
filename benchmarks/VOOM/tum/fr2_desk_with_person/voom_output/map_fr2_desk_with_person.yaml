@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+mappointsFile: "map_fr2_desk_with_person.mappoints"
+nMappoints: 6769
+ObjectsFile: "map_fr2_desk_with_person.Objects"
+nObjects: 78
+keyframesFile: "map_fr2_desk_with_person.keyframes"
+nKeyframes: 177
+graphsFile: "map_fr2_desk_with_person.graphs"
+nGraphs: 177
+featuresFile: "map_fr2_desk_with_person.features"
+nFeatures: 177983
+Options: 2
+Options descriptions: [ FEATURES_FILE_NOT_DELIMITED ]
+cameraMatrices:
+   - { fx:5.2090863037109375e+02, fy:5.2100732421875000e+02,
+       cx:3.2514144897460938e+02, cy:2.4970176696777344e+02 }

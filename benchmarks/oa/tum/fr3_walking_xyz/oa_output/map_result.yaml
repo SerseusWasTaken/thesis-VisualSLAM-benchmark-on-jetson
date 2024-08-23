@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+mappointsFile: "map_result.mappoints"
+nMappoints: 0
+mapobjectsFile: "map_result.mapobjects"
+nMapobjects: 0
+objecttracksFile: "map_result.objecttracks"
+nObjectTracks: 0
+keyframesFile: "map_result.keyframes"
+nKeyframes: 0
+featuresFile: "map_result.features"
+nFeatures: 0
+Options: 2
+Options descriptions: [ FEATURES_FILE_NOT_DELIMITED ]
+cameraMatrices:
+   []
